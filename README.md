@@ -41,9 +41,9 @@ Plume is built with a "Privacy First" philosophy:
 
 If you find Plume useful and would like to support its development, you can buy me a coffee! Your support helps keep the project alive, ad-free, and constantly improving.
 
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IstvanSafar202)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IstvanSafar202/5)
 &nbsp;
-[![Support via Revolut](https://img.shields.io/badge/Support-Revolut-000000?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/istvn5o4m)
+[![Support via Revolut](https://img.shields.io/badge/Support-Revolut-000000?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/istvn5o4m/5eur)
 
 ## ⚖️ License
 
