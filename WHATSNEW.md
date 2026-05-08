@@ -1,5 +1,17 @@
 ﻿# What's New in Plume
 
+**v1.3.2 - 2026-05-08**
+
+---
+
+- **New Feature**: **Customizable Gestures**. Choose between 'Mark as read', 'Star', or 'Share' for swipe actions.
+- **New Feature**: **Left-handed Mode**. Toggle swipe directions in Settings for better accessibility.
+- **New Feature**: **Linger to Read**. Automatically mark articles as read by simply staying on them in the list (optional).
+- **Improved**: **Scroll Retention**. Returning from an article now preserves your exact scroll position in the list.
+
+---
+
+
 **v1.3.1 - 2026-05-08**
 
 ---

@@ -28,10 +28,14 @@ Plume is a modern, lightweight RSS reader for Android, designed to provide a foc
 
 ## 📱 How to Use
 
-1. **Download the App**: Get the latest `.apk` file from the [Releases](../../releases) section (or from the provided link).
+1. **Download the App**: Get the latest `.apk` file from the [Releases](../../releases) section.
 2. **Install**: Open the downloaded file on your Android device. You may need to enable "Install from Unknown Sources" in your settings.
-3. **Log In**: Choose your preferred RSS service (Feedly or TheOldReader) and log in.
-4. **Enjoy**: Your feeds will begin syncing immediately!
+3. **Enjoy**: No registration required for Local Mode!
+
+## ⚙️ Requirements
+
+- **Android Version**: Android 8.0 (Oreo) or higher (API 26+).
+- **Storage**: Minimum 50MB free space for article caching.
 
 ## 🔒 Privacy & Security
 
