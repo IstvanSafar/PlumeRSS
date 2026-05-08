@@ -10,15 +10,21 @@ Plume is a modern, lightweight RSS reader for Android, designed to provide a foc
   <img src="Main.png" width="300" title="Main Screen">
 </p>
 
-## Key Features
+## ✨ Key Features
 
 - **Service Integration**: Supports **Feedly** and **TheOldReader** for seamless synchronization across devices.
+- **Local Mode (No Account)**: Use the app completely anonymously. Add your favorite RSS/Atom feeds directly to your device without signing up for any service.
+- **Swipe Navigation**: 
+  - Swipe **Right** on a feed to open its articles.
+  - Swipe **Left** on a feed to **Unsubscribe**.
+  - Swipe **Left** in the article list to go back.
+- **Import/Export (OPML)**: Easily migrate your subscriptions using the industry-standard OPML format.
 - **Read Anywhere**: Fully functional **Offline Mode**. Articles and images are cached so you can read even without an internet connection.
 - **Listen on the Go**: Built-in **Text-to-Speech (TTS)** support allows you to listen to articles while commuting or multitasking.
 - **Quick Access Widget**: A handy home screen widget to see your latest unread articles at a glance.
 - **Clean & Focused**: Automatically strips clutter from articles using advanced HTML parsing for a pure reading experience.
 - **Dark Mode**: Beautifully crafted dark theme for comfortable reading at night.
-- **Customizable**: Adjust font sizes and themes to suit your preferences.
+- **Customizable**: Adjust font sizes and themes in Settings.
 
 ## 📱 How to Use
 
