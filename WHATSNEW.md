@@ -1,5 +1,16 @@
 ﻿# What's New in Plume
 
+**v1.4.10 - 2026-05-10**
+
+---
+
+- **Fixed**: Sync no longer spins forever on feeds with many episodes (e.g. 1000+ entries). The automatic full-text fetch during sync has been removed — it was triggering hundreds of HTTP requests per feed.
+- **Fixed**: Articles no longer disappear and reappear during pull-to-refresh. Read article visibility is now only reset after a successful sync, not at the start.
+- **Fixed**: RSS parser now caps at 100 articles per feed to avoid processing unnecessarily large feeds.
+- **Fixed**: HTTP requests now have a 15s connect / 30s read timeout, preventing the sync from hanging indefinitely on slow servers.
+
+---
+
 **v1.4.9 - 2026-05-10**
 
 ---
