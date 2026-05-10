@@ -1,5 +1,15 @@
 ﻿# What's New in Plume
 
+**v1.4.4 - 2026-05-10**
+
+---
+
+- **New Feature**: **YouTube Channel Support**. Add any YouTube channel by pasting its URL (e.g. `youtube.com/@channelname`). Plume automatically resolves it to the channel's RSS feed — no API key needed.
+- **New Feature**: **Popular Feeds Browser**. Tap "Popular feeds" in the Add Feed dialog to browse a curated list of popular sources (BBC, Hacker News, The Verge, Reddit, NASA, and more) and add any with a single tap.
+- **Fixed**: The URL input field in the Add Feed dialog no longer allows multi-line text entry.
+
+---
+
 **v1.4.3 - 2026-05-08**
 
 ---
