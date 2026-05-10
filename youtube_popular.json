@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T07:45:53Z",
+  "updated": "2026-05-10T07:49:13Z",
   "categories": [
     {
       "id": "HU_news",
@@ -178,6 +178,14 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTY9vSAwOVsXw1lE1vBD0Hg"
         },
         {
+          "id": "UC83lXAvZNyEaygUuhrcrsaA",
+          "title": "Vegas Sports Hungary",
+          "description": "📊 Ha neked a sport több, mint eredmény – ha szereted tudni, mi miért történik, akkor iratkozz fel, és légy részese a Veg",
+          "thumbnail": "https://yt3.ggpht.com/M6f6mME_yVbXXxMYJpILBHmWlAAG4rJ2z1FJbDkpdjz2pYEeuKJgZ6eQ3KCgufb7hRK10DuJ=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 183000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC83lXAvZNyEaygUuhrcrsaA"
+        },
+        {
           "id": "UCapGzbkHLxY_Vl0vHPvCozg",
           "title": "BŰNtények Podcast",
           "description": "Megtörtént bűnesetek feldolgozása MAGYARUL. Ha Te is True Crime és krimi rajongó vagy, hallgasd a sokszor hátborzongató ",
@@ -232,14 +240,6 @@
           "thumbnail": "https://yt3.ggpht.com/t1fWv53OgHQNZ0eTZK9LMObkgW-NRmaxdML4DfeA-CG_A331gh8vqIAYGZHvU0Gx2LE5cuAt=s88-c-k-c0x00ffffff-no-rj",
           "subscribers": 13500,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK4LOPeU2tW4GkETijLpAuA"
-        },
-        {
-          "id": "UCpfNXyAs64PXHFTDVIv-v-w",
-          "title": "Magyar Nemzet Podcast - Topic",
-          "description": "",
-          "thumbnail": "https://yt3.ggpht.com/I5iqxn4znsnUPVs7QSO8K1AU5Qz-bcMkLuK0ysPmDW17X4ShlvJjzde1tLtoidLOw8mIu6GpyQ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 79,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpfNXyAs64PXHFTDVIv-v-w"
         }
       ]
     },
@@ -296,6 +296,14 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDvJcb8Adv-_bOrtnRLmiDw"
         },
         {
+          "id": "UCO6kzQ-7wcG0x8W5LpBA9RQ",
+          "title": "NewsChannel 5",
+          "description": "NewsChannel 5 Nashville is Middle Tennessee's and Southern Kentucky’s number one source for news and information. \n",
+          "thumbnail": "https://yt3.ggpht.com/y5Fx4yQ0QRT7lhMttya5-1T6GIJ1ZEliccTg08SB4oIfTQ0rFjHt878oioS5LxBGoZYVhtwumw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 300000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO6kzQ-7wcG0x8W5LpBA9RQ"
+        },
+        {
           "id": "UCueJOS3ZjWyTtRU9bnx9XFw",
           "title": "WREG News Channel 3",
           "description": "",
@@ -326,14 +334,6 @@
           "thumbnail": "https://yt3.ggpht.com/0aC_EcyeCyJvEKUxT_CjxjC2TaYeArPCaNJMOZdazdpkeHHWkJOHa0QHogwGB1gUWXie7L_jRw=s88-c-k-c0x00ffffff-no-rj",
           "subscribers": 36400,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRn7SebvQ6P_LDwjLxKegng"
-        },
-        {
-          "id": "UCCzbbdYy_d3MRzNtzU8zYSQ",
-          "title": "KRCR News Channel 7",
-          "description": "Covering the news and issues that matter to the Northstate community. Bringing you stories from Butte, Shasta, Tehama, T",
-          "thumbnail": "https://yt3.ggpht.com/EbLddDP-v1ASRdncHkrspAowVjBkXFRJJnQrByZjmAFGWXj_Y_p8i4es1QTNZs15QVFrh2SB=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 35100,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCzbbdYy_d3MRzNtzU8zYSQ"
         },
         {
           "id": "UC17gluxscT-K2IJG2oxz4uA",
@@ -452,14 +452,6 @@
       "label": "🔬 Science",
       "channels": [
         {
-          "id": "UCGi2Q4YyKiJFiBOx4cGXsgw",
-          "title": "Science and Fun Education ",
-          "description": "Now preparing for exams will become Fun and Easy! This channel is dedicated to students of classes 9th, 10th, 11th, 12th",
-          "thumbnail": "https://yt3.ggpht.com/eqrPkYbic4ZJwi7YFbcx-RhoBxm-Ob7QfUoydw1igByUSNT6qX7XhUHMwtXg0GGo3WiJudsQ_Dw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1960000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGi2Q4YyKiJFiBOx4cGXsgw"
-        },
-        {
           "id": "UC6dyNTnSopdgye2gQBVSNVg",
           "title": "Smithsonian Science Education Center (SSEC)",
           "description": "The Smithsonian Science Education Center provides science education leadership development to build awareness for scienc",
@@ -514,6 +506,14 @@
           "thumbnail": "https://yt3.ggpht.com/Cgp9YxdSn8fapj1MFNcUpeTlO8ZSLkw55iYj82Xt5wGrrw8nV1z1zAERtG1kZtPoGqklBEkQCI0=s88-c-k-c0x00ffffff-no-rj",
           "subscribers": 5110,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOt63iQHk4A-Kjlb8NkLSOA"
+        },
+        {
+          "id": "UCWWBTWctBz5_LjvA3GpT41g",
+          "title": "UTL Science Education",
+          "description": "",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kOIcBGuwGG0lggRAlPUvTfNIct99VVccsr6GQ7nnQdfw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 2820,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWWBTWctBz5_LjvA3GpT41g"
         },
         {
           "id": "UCH_itr1-NZ1lIZ5yiIb9xVw",
