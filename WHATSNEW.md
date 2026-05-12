@@ -1,5 +1,14 @@
 ﻿# What's New in Plume
 
+**v1.5.2 - 2026-05-12**
+
+---
+
+- **Fixed**: DB migration clear all the data
+
+---
+
+
 **v1.5.1 - 2026-05-12**
 
 ---
