@@ -1,5 +1,13 @@
 ﻿# What's New in Plume
 
+**v1.5.3 - 2026-05-12**
+
+---
+
+- **Fixed**: Old version published with new version number
+
+---
+
 **v1.5.2 - 2026-05-12**
 
 ---
