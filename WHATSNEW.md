@@ -1,5 +1,15 @@
 ﻿# What's New in Plume
 
+**v1.5.6 - 2026-05-15**
+
+---
+
+- **Improved**: Relocated podcast mini-player close button to the top-right corner to prevent overlap with long episode titles.
+- **Improved**: Robustified version update check to correctly handle and ignore flavor suffixes (e.g., `-std`, `-auto`) during comparison.
+- **Fixed**: Resolved compilation errors in Settings where suspend functions were called outside of coroutines.
+
+---
+
 **v1.5.5 - 2026-05-13**
 
 ---
