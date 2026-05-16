@@ -1,5 +1,14 @@
 ﻿# What's New in Plume
 
+**v1.5.9 - 2026-05-16**
+
+---
+
+- **New Feature**: **Sync Diagnostics**. Added a "Details" button to synchronization error messages, allowing users to view and copy specific feed failure reasons for easier troubleshooting.
+- **Improved**: Added detailed logging to the synchronization engine to better track fetch and parse operations.
+
+---
+
 **v1.5.8 - 2026-05-16**
 
 ---
