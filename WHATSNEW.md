@@ -1,5 +1,18 @@
 ﻿# What's New in Plume
 
+**v1.5.10 - 2026-05-16**
+
+---
+
+* Added Factory Reset: You can now wipe all data, settings, and accounts with a single tap in Settings.
+* Disabled Auto Backup: Ensuring your data is completely removed from your device and cloud when you uninstall the
+  app.
+* Strict Sync Logic: Plume now only synchronizes accounts you are explicitly logged into.
+* Sync Diagnostics: Added a "Details" button to error messages for easier troubleshooting.
+* Robust Sync: Improved the update process to prevent broken feeds from blocking other subscriptions.
+
+---
+
 **v1.5.9 - 2026-05-16**
 
 ---
