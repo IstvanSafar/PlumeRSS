@@ -1,5 +1,13 @@
 ﻿# What's New in Plume
 
+**v1.5.8 - 2026-05-16**
+
+---
+
+- **Fixed**: Robustified synchronization — account-level subscription sync failures no longer block article updates for existing feeds.
+
+---
+
 **v1.5.7 - 2026-05-16**
 
 ---
