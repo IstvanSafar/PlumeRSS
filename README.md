@@ -1,5 +1,7 @@
 # <img src="icon.svg" width="48" align="center"> Plume RSS Reader
 
+**[What's New](WHATSNEW.md)**
+
 ![Downloads](https://img.shields.io/github/downloads/IstvanSafar/PlumeRss/total)
 
 Plume is a modern, lightweight RSS reader for Android, designed to provide a focused and distraction-free reading experience. Whether you are catching up on tech news, blogs, daily headlines, or YouTube channels, Plume brings all your favorite content into one clean interface — no account required.
