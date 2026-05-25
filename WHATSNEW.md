@@ -1,5 +1,14 @@
 ﻿# What's New in Plume
 
+**v1.5.12 - 2026-05-25**
+
+---
+
+- **Fixed**: **Navigation Stability**. Scroll position is now correctly preserved when returning to the article list from a reader view.
+- **Fixed**: **Mark All Read in All Items**. The "Mark All Read" button now correctly processes all feeds when viewing the combined "All Items" list.
+
+---
+
 **v1.5.11 - 2026-05-16**
 
 ---
