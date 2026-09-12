@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T08:23:09Z",
+  "updated": "2026-09-12T08:12:02Z",
   "categories": [
     {
       "id": "HU_news",
@@ -26,7 +26,7 @@
           "title": "Magyar News Online",
           "description": "Magyar hírek, politika, parlamenti közvetítések – naprakészen, egy helyen.\n\nA Magyar News Online a magyar közélet függet",
           "thumbnail": "https://yt3.ggpht.com/n_mUCfD8gDr2U14wcEG-Jm9xpSWk5s0G-SWbDLxS_qKb-hsWvIDVzpJMXm0dbQM-aSgZxfvKRFE=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 56200,
+          "subscribers": 56300,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx_vIPtaguhj9fyIs91PUIw"
         },
         {
@@ -34,7 +34,7 @@
           "title": "RTL Hírek",
           "description": "Az RTL Hírek hivatalos YouTube-csatornája: napi Híradó-riportok, exkluzív interjúk és terepi tartalmak a magyar közéletb",
           "thumbnail": "https://yt3.ggpht.com/UKmOUDKYarwVl8QX8MFkBNSdB4rZpwH2g-Yd3NSSDF3-8mzzAhAsyC9psYHFxjbFxwsyC-oZ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 10000,
+          "subscribers": 10200,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHd7a3FbnCbCGrmQ4uNPXdQ"
         },
         {
@@ -66,7 +66,7 @@
           "title": "Alternatív hírek",
           "description": "Válogatás a vezető médiák által kellő súllyal be nem mutatott hírekből.\n\nVálogatás közben megpróbálunk odafigyelni arra,",
           "thumbnail": "https://yt3.ggpht.com/n8QQWYIMXumKplifq8Kv4_WXuJNyQqA0yYmmR_9wBfSLUeVjVLrrdcur3Ao459crA85PYor96Gk=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 4640,
+          "subscribers": 4670,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMrAtM9QIlGmPbEfnWBCC7g"
         },
         {
@@ -142,7 +142,7 @@
           "title": "Partizán",
           "description": "Írj nekünk!\n\nHa van egy sztorid, tipped vagy ötleted:\nszerkesztoseg@partizan.hu\n\nBizalmas információ esetén:\npartizanbud",
           "thumbnail": "https://yt3.ggpht.com/WfCj5FvFIg8iF7Qia2mWFsiq2CNRMKwxbF3SocHxg0NCVr6ELqXvWmWuwx-JtB1oc14Q-KBpVw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 703000,
+          "subscribers": 704000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEFpEvuosfPGlV1VyUF6QOA"
         },
         {
@@ -182,7 +182,7 @@
           "title": "Magyar Közöny Podcast",
           "description": "Sokan mondják, hogy a magyar embert nem érdekli más, csak a saját boldogulása.\nA magyar embernek nem fontos más, csak a ",
           "thumbnail": "https://yt3.ggpht.com/vf7939EXsCFx4f2sMNwC0oWdaiCVPvHsEWjPKg46PzvRwyjFYAE6IqXAj62qvFCJOeHBsJY=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 63400,
+          "subscribers": 63500,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBfVaxkSqXOmCX4pge_rbYw"
         },
         {
@@ -240,6 +240,14 @@
       "label": "📰 News",
       "channels": [
         {
+          "id": "UCBi2mrWuNuyYy4gbM6fU18Q",
+          "title": "ABC News",
+          "description": "ABC News is your daily source for breaking national and world news, exclusive interviews and 24/7 live streaming coverag",
+          "thumbnail": "https://yt3.ggpht.com/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 19800000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBi2mrWuNuyYy4gbM6fU18Q"
+        },
+        {
           "id": "UCXIJgqnII2ZOINSWNOGFThA",
           "title": "Fox News",
           "description": "FOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as polit",
@@ -272,28 +280,20 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEXGDNclvmg6RW0vipJYsTQ"
         },
         {
-          "id": "UCrlIS7z20CnVaCrMvdkig_g",
-          "title": "Eyewitness News ABC7NY",
-          "description": "Hi!   We're in New York City and hope you love us on YouTube as much as you do on television!\n\nFAQs\n\nQ:  Where can I sen",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k1_mRYQG-HAspwbSjYcshWT6yECtfxdmfmCfIchUZsWHB9=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 2790000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlIS7z20CnVaCrMvdkig_g"
-        },
-        {
-          "id": "UCKZGcrxRAhdUi58Mdr565mw",
-          "title": "African Diaspora News Channel",
-          "description": "The African Diaspora News Channel delivers original news commentary and cultural analysis created by real journalists ac",
-          "thumbnail": "https://yt3.ggpht.com/lzZw-LTA_1RN1gfxgBgqDusutn3cHQnVH5M97wLUbEK5u3JKoeK311cEJSql6wg2ssCXDNLc=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1930000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZGcrxRAhdUi58Mdr565mw"
-        },
-        {
           "id": "UCDvJcb8Adv-_bOrtnRLmiDw",
           "title": "WFLA News Channel 8",
           "description": "WFLA News Channel 8 is Tampa Bay's #1 source for news, weather, sports and entertainment. Thanks for visiting our YouTub",
           "thumbnail": "https://yt3.ggpht.com/VeWpSjAEfY_7z_use_nYB3KKFIienYfJRvoCJGHZL-2wz34NBzrNxnsXdOZOcdpKl-01AGj3dg=s88-c-k-c0x00ffffff-no-rj",
           "subscribers": 838000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDvJcb8Adv-_bOrtnRLmiDw"
+        },
+        {
+          "id": "UCDrLGkZTcNCshOLiKi5NtEw",
+          "title": "WGN News",
+          "description": "WGN-TV brings you the latest Chicago sports, weather, and news from Chicago's Very Own.\n\nWGN-TV, whose call letters are ",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mVS4XzzV7QbxQvTu1mKPM3gePfA7ng1p41dlziK-QJEYs=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 704000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrLGkZTcNCshOLiKi5NtEw"
         },
         {
           "id": "UCueJOS3ZjWyTtRU9bnx9XFw",
@@ -308,7 +308,7 @@
           "title": "WTVC NewsChannel 9",
           "description": "WTVC NewsChannel 9 is an ABC news affiliate in Chattanooga, Tennessee.",
           "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_Sy4MbMvdwDfGc1fW-umpsUeijNm0ogSMS6E78d5Yfg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 115000,
+          "subscribers": 116000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoe5u1Hr0tHkJVzgsiKoMJg"
         },
         {
@@ -316,7 +316,7 @@
           "title": "News Channel 3-12",
           "description": "KEYT News Channel 3, News Channel 12 and KKFX Fox 11 News broadcast throughout Santa Barbara, San Luis Obispo and Ventur",
           "thumbnail": "https://yt3.ggpht.com/0aC_EcyeCyJvEKUxT_CjxjC2TaYeArPCaNJMOZdazdpkeHHWkJOHa0QHogwGB1gUWXie7L_jRw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 37700,
+          "subscribers": 37800,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRn7SebvQ6P_LDwjLxKegng"
         },
         {
@@ -341,6 +341,14 @@
       "id": "EN_tech",
       "label": "💻 Tech",
       "channels": [
+        {
+          "id": "UCb-xXZ7ltTvrh9C6DgB9H-Q",
+          "title": "Prasadtechintelugu",
+          "description": "Technology , Smartphone Reviews , Unboxing Gadgets , Electronics , Gadget Reviews, Tech videos, Tech Q&A , Technews\nWelc",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lruRqXcu0HALPqtLYA2bOuxiPWRgD6Gn389lG5BgVN2fw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 5170000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCb-xXZ7ltTvrh9C6DgB9H-Q"
+        },
         {
           "id": "UCVLZmDKeT-mV4H3ToYXIFYg",
           "title": "Insider Tech",
@@ -382,14 +390,6 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ"
         },
         {
-          "id": "UCptwuAv0XQHo1OQUSaO6NHw",
-          "title": "Max Tech",
-          "description": "Want to collaborate on sponsored content? Email us HERE ➡\n\nWE DO NOT USE Telegram, Whatsapp, or WeChat for communication",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1270000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCptwuAv0XQHo1OQUSaO6NHw"
-        },
-        {
           "id": "UCz6PEeVLG1TL6jMRTvSLm4g",
           "title": "Matt Talks Tech",
           "description": "If you would like to contact for a SPONSOR, to Review a Product or Service for you, please contact me via; contact@mattt",
@@ -402,7 +402,7 @@
           "title": "Rob Braxman Tech",
           "description": "Rob Braxman focuses primarily on the dangers of big tech hoarding our personal data and thus wiping our chances of priva",
           "thumbnail": "https://yt3.ggpht.com/mq89_NIAXbm4WE_k4n7Rq1ykxpKnQ8XBFIV0SPbZSOg1bQsfNMd-TxpDnPadySlNlvjipR9wlRw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 747000,
+          "subscribers": 748000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw"
         },
         {
@@ -520,7 +520,7 @@
           "title": "PURE SCIENCE EDUCATION (PURE SCIENCE)",
           "description": "I am a qualified Chemistry teacher for over 19 years specialising in GCSE and A Level Chemistry. I have a medical backgr",
           "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nWRgDDrAvDdvUwzIxl4S_yMyTIg5AGRxoJKA8lQXtWbA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 949,
+          "subscribers": 950,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYDeVqnWJimN6BtnbPkqdCQ"
         },
         {
@@ -536,7 +536,7 @@
           "title": "Bindura University Of Science Education (BUSE)",
           "description": "Bindura University of Science Education (BUSE) is a dynamic Zimbabwean institution that, while rooted in its origins of ",
           "thumbnail": "https://yt3.ggpht.com/cmLA648HYgQc7_HE45YB8CccNpZmb6qXWSe-5QqlRViNSE622u6G5ZspM0ZZYsayRqmJe5EcS8E=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 96,
+          "subscribers": 102,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA98LUF-advYSUtaaPla6ZA"
         }
       ]
@@ -578,6 +578,22 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCemhZ2At2lgifTJLClGCz9A"
         },
         {
+          "id": "UC3S6nIDGJ5OtpC-mbvFA8Ew",
+          "title": "Orange Juice Gaming",
+          "description": "Hello I'm OJ\n\nI do mobile games like Clash Royale, Brawl Stars, Clash of Clans and other Supercell games.\n",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nBiAlsLYVgvCMI1q--JQiPw12WECp3CCVK7u8kgymzGhA=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 3630000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3S6nIDGJ5OtpC-mbvFA8Ew"
+        },
+        {
+          "id": "UCqg3BHb31w2h77vFuTFmp2w",
+          "title": "CouRage Gaming",
+          "description": "CouRage’s Gaming Videos Channel",
+          "thumbnail": "https://yt3.ggpht.com/9E0CKStEBcIlGoc3mcZD1Bw-RrINqpSH-QdtQo9neYSt_foarytlNuCdjuxGcX0TL5E4KsJfzA=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 2860000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqg3BHb31w2h77vFuTFmp2w"
+        },
+        {
           "id": "UCpbvCjJ68yt_N2WUpufLaCQ",
           "title": "JKrew Gaming",
           "description": "Welcome to JKrew Gaming — the craziest, funniest, and most chaotic Roblox channel on YouTube! 🎮🔥\n\nWe make Brookhaven sto",
@@ -586,43 +602,35 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpbvCjJ68yt_N2WUpufLaCQ"
         },
         {
-          "id": "UCtK0x6gbsmSsxT8jS31UPAw",
-          "title": "Carmi Games",
-          "description": "Carmi Games, es creadora de historias de Roblox. Son aventuras de sus personajes hechas para entretenimiento de sus susc",
-          "thumbnail": "https://yt3.ggpht.com/5x9yQxP4AiHFxd2hyzMOT2gBOgqQteEhOpk4J-rtctIZaaqnB9rxY5EHiqWbxPrJF44gsSBQXQ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1620000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtK0x6gbsmSsxT8jS31UPAw"
+          "id": "UC6zzlBIwNS9GJZZ3rBx_WhQ",
+          "title": "Hudson's Playground Gaming",
+          "description": "Hudson's Playground Gaming is a channel me and Hudson decided to make featuring family friendly gaming! We will play far",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m8CaUqqYcIU2V8i1Td03-Drg3saRiRb1WBEZi-Oij-Lsw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 2620000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6zzlBIwNS9GJZZ3rBx_WhQ"
         },
         {
           "id": "UCo0NaLsgPT6JrQLQGecpMyw",
           "title": "G for Gaming",
           "description": "hey friends :) \nwelcome to our GAMiNG CHANNEL!!\n\ni'm Adley if you didn't know.. i make fun videos with my family on my m",
           "thumbnail": "https://yt3.ggpht.com/-KsxucaRVU1rQ-LnmEgUz1Lk_jcT2gV2KY-xNXcd5ZJfCaOerd3h-cZMTBZv_4FS4lIhdNasag=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1580000,
+          "subscribers": 1590000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo0NaLsgPT6JrQLQGecpMyw"
         },
         {
-          "id": "UCqRlH_vhUAmUwGn3Hvc0FKw",
-          "title": "ElGamingChannel",
-          "description": "Subo Call Of Duty ZOMBIES, Custom Zombies y un poquito de variedad.",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kMcp2Cx0HrfC7g7oO8neToTnn-v0M4VMJZ-QxIKYotxTc=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 775000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqRlH_vhUAmUwGn3Hvc0FKw"
-        },
-        {
-          "id": "UCPUdvCCbW1_o78jRxjEYgdQ",
-          "title": "GameRig",
-          "description": "Welcome to GameRig! 🎮💻\n\nAt GameRig, we believe you don’t need a NASA supercomputer to enjoy gaming. Our channel is all a",
-          "thumbnail": "https://yt3.ggpht.com/9YJmZNGDDZ4k_Od7LJxudddpvN7pe44kEEY1xndTIyOyWTlBEX-HYTS3DGWGQpm6vZnWp6NU5Q=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 195000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPUdvCCbW1_o78jRxjEYgdQ"
+          "id": "UCFqmcAvY-lLQHJcfOHJavGQ",
+          "title": "kAN Gaming",
+          "description": "Hey everyone! My name is kAN and I love playing video games! Join me as we play all sorts of games both solo and with fr",
+          "thumbnail": "https://yt3.ggpht.com/hywgLauoU8dCYclPQJ2M5b0lB5RHqLkEL9jl0zWM-OtjUhq0osQWdmRl7poI6A8gGX0BoqFRPA=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 497000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqmcAvY-lLQHJcfOHJavGQ"
         },
         {
           "id": "UCN7z0S0GJCcfdJlLCXPedsQ",
           "title": "Telluride Bush Gaming",
           "description": "Sas, Mook, & Jerry are building a Call of Duty Challenger's team and documenting the process along the way. ",
           "thumbnail": "https://yt3.ggpht.com/3zAL1ZqMAOyxPoTaWiqtmTHQ_RGUj4uonDFzKuOMnhKRcmis9XjbXQ_jER6JtN2g0uXvqYeejn8=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 47400,
+          "subscribers": 47500,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN7z0S0GJCcfdJlLCXPedsQ"
         },
         {
@@ -632,14 +640,6 @@
           "thumbnail": "https://yt3.ggpht.com/FRLG6KJPGtMJ4gVt28jbmtBEegp9uHPi42N9JqsOjlXbDZ-pbMQbk076p27rl0WUUJu6p8a4=s88-c-k-c0x00ffffff-no-rj",
           "subscribers": 16900,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqxharDtAgX3vTRbkYx_qow"
-        },
-        {
-          "id": "UCaoveMcLkkoCUClzk_Bz7qQ",
-          "title": "T-Gaming",
-          "description": "The main focus will be on Farming Simulator.  Doing farm builds and some gameplay.     Other games you may also see on t",
-          "thumbnail": "https://yt3.ggpht.com/ynIN-SfOkHJ47Mep3KLCllFtYth0hu-L7BPdRcG-9W31RF-EuPK4P3nqeg66WsrluoLfnw10ew=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1080,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaoveMcLkkoCUClzk_Bz7qQ"
         }
       ]
     },
@@ -724,7 +724,7 @@
           "title": "Investing Uncomplicated",
           "description": "Welcome to Investing Uncomplicated – where the everyday person becomes the everyday investor.\n\nIf you’ve ever felt like ",
           "thumbnail": "https://yt3.ggpht.com/7_s9uqh63683InVcPVSmfiT3XMM8H-VH1xOxa75C6Hk1EXRZQ9eWs7crme8dEL8i50j6ZWERow=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 75000,
+          "subscribers": 75300,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp9okfQXIf4Ttr-ZIa4IlXw"
         },
         {
