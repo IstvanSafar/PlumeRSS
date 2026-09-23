@@ -1,18 +1,10 @@
 {
-  "updated": "2026-09-22T08:52:34Z",
+  "updated": "2026-09-23T08:54:29Z",
   "categories": [
     {
       "id": "HU_news",
       "label": "🇭🇺 Magyar hírek",
       "channels": [
-        {
-          "id": "UCoMdktPbSTixAyNGwb-UYkQ",
-          "title": "Sky News",
-          "description": "The full story, first.\n\nDownload the Sky News app:  https://qrcode.skynews.com/skynews/appdownload",
-          "thumbnail": "https://yt3.ggpht.com/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 9360000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoMdktPbSTixAyNGwb-UYkQ"
-        },
         {
           "id": "UCAvx9uxtvhnxNpnjutUei5A",
           "title": "Hír TV",
@@ -34,7 +26,7 @@
           "title": "Magyar News Online",
           "description": "Magyar hírek, politika, parlamenti közvetítések – naprakészen, egy helyen.\n\nA Magyar News Online a magyar közélet függet",
           "thumbnail": "https://yt3.ggpht.com/n_mUCfD8gDr2U14wcEG-Jm9xpSWk5s0G-SWbDLxS_qKb-hsWvIDVzpJMXm0dbQM-aSgZxfvKRFE=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 57100,
+          "subscribers": 57200,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx_vIPtaguhj9fyIs91PUIw"
         },
         {
@@ -42,7 +34,7 @@
           "title": "RTL Hírek",
           "description": "Az RTL Hírek hivatalos YouTube-csatornája: napi Híradó-riportok, exkluzív interjúk és terepi tartalmak a magyar közéletb",
           "thumbnail": "https://yt3.ggpht.com/UKmOUDKYarwVl8QX8MFkBNSdB4rZpwH2g-Yd3NSSDF3-8mzzAhAsyC9psYHFxjbFxwsyC-oZ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 12100,
+          "subscribers": 12300,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHd7a3FbnCbCGrmQ4uNPXdQ"
         },
         {
@@ -66,7 +58,7 @@
           "title": "Betiltott hírek ",
           "description": "Külpolitika másképpen - Podcast a világ eseményeiről egy keresztény újságíró szemszögéből",
           "thumbnail": "https://yt3.ggpht.com/JHlOPGskaaeBtqE38kGMiaV6dO2MKt9z8KByp-wU9DiDkIGGOlaq9oq-a5Bx3VRP6eD64sguzg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 4850,
+          "subscribers": 4860,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrfzrjfZP9Dv5G2WQmdQDoQ"
         },
         {
@@ -92,6 +84,14 @@
           "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mlrfIsFO6T6d3Ze4LTLMI5GyOV721-uuomZAoM1J8=s88-c-k-c0x00ffffff-no-rj",
           "subscribers": 3170,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyVtof2ik92xrS3TfHWhHkQ"
+        },
+        {
+          "id": "UCR5bAXzF-hO7H1VDToTKXQA",
+          "title": "Dunakanyar Hírek",
+          "description": "",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lzraBul1I5splpFccrlwpC5xFKgkI8ewB82ZLyiWnqkJs=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 1290,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR5bAXzF-hO7H1VDToTKXQA"
         },
         {
           "id": "UChBYuE8NspwMoE6P61owvAA",
@@ -130,14 +130,6 @@
       "label": "🇭🇺 Magyar egyéb",
       "channels": [
         {
-          "id": "UCQAeX1_gw45xb3Cg-OwEFcw",
-          "title": "Friderikusz Podcast",
-          "description": " A Friderikusz Podcast a politika, gazdaság, tudomány, mesterséges intelligencia, technológiai ipar, kultúra és életmód ",
-          "thumbnail": "https://yt3.ggpht.com/gl0c04MO10HxMecBtLsRtgdLOPxhAsUwzk8b6ELUko6Rd7NuO_jHPX73ofXaBoNgX6YhS0gmxw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 665000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQAeX1_gw45xb3Cg-OwEFcw"
-        },
-        {
           "id": "UCM-1sd-cXSuCsfWp8QMY_OQ",
           "title": "Telex․hu",
           "description": "Ez a Telex.hu internetes újság videócsatornája, ahol híreket, elemzéseket, portrékat, riportokat, emberkísérleteket talá",
@@ -146,84 +138,60 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM-1sd-cXSuCsfWp8QMY_OQ"
         },
         {
-          "id": "UCTY9vSAwOVsXw1lE1vBD0Hg",
-          "title": "TheVR Podcast",
-          "description": "Minden ami TheVR Podcast.",
-          "thumbnail": "https://yt3.ggpht.com/tsdmANCIPP9aHUyVXcnFiqnudXqfLUvvw4sVZHifQAvM6qP_Z9zj3gqmzFzUa3-kWsb4m0A4eA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 251000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTY9vSAwOVsXw1lE1vBD0Hg"
+          "id": "UC83lXAvZNyEaygUuhrcrsaA",
+          "title": "Vegas Sports Hungary",
+          "description": "📊 Ha neked a sport több, mint eredmény – ha szereted tudni, mi miért történik, akkor iratkozz fel, és légy részese a Veg",
+          "thumbnail": "https://yt3.ggpht.com/ZJ0SijcOHql2qiEQkPgGeSAXKf4ZLpaI_rQp9fV_TJg9b74ttmQhoNCEyGELgzTdlMeXOvc4BA=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 240000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC83lXAvZNyEaygUuhrcrsaA"
         },
         {
-          "id": "UCBfVaxkSqXOmCX4pge_rbYw",
-          "title": "Magyar Közöny Podcast",
-          "description": "Sokan mondják, hogy a magyar embert nem érdekli más, csak a saját boldogulása.\nA magyar embernek nem fontos más, csak a ",
-          "thumbnail": "https://yt3.ggpht.com/vf7939EXsCFx4f2sMNwC0oWdaiCVPvHsEWjPKg46PzvRwyjFYAE6IqXAj62qvFCJOeHBsJY=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 64700,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBfVaxkSqXOmCX4pge_rbYw"
+          "id": "UCw0oJgCjz3NvAICbqWImH-A",
+          "title": "24.hu",
+          "description": "A 24.hu Magyarország egyik legolvasottabb híroldala. Küldetésünk a független, tényeken alapuló tájékoztatás és a minőség",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-U7ksec28fytCX3477qrfR6TiyuVc1QYV0ZevMnSy8tM=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 222000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw0oJgCjz3NvAICbqWImH-A"
         },
         {
-          "id": "UCapGzbkHLxY_Vl0vHPvCozg",
-          "title": "BŰNtények Podcast",
-          "description": "Megtörtént bűnesetek feldolgozása MAGYARUL. Ha Te is True Crime és krimi rajongó vagy, hallgasd a sokszor hátborzongató ",
-          "thumbnail": "https://yt3.ggpht.com/4bTNxaEcXBaPGcrb2mcVmAcv-aHeyedHTTIR0rL5ZwHGUfM4Tqm_E8Vb5Vlkbmyno6QgbrqnRw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 64400,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCapGzbkHLxY_Vl0vHPvCozg"
+          "id": "UC7k3bYWwRJvdIvgtCRrDI9Q",
+          "title": "Portfolio",
+          "description": "A Portfolio Magyarország gazdasági/üzleti hírportálja, az egyik legolvasottabb magyar weboldal, amely több mint 25 éve m",
+          "thumbnail": "https://yt3.ggpht.com/Xm65iR0c7XvJDetdEXlgeT-cQKYYjKXMcoJ87qp050SsWyfcEaBrKpwQ1G1FS96aJxjUsa__dw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 23800,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7k3bYWwRJvdIvgtCRrDI9Q"
         },
         {
-          "id": "UCI9UDXzfjg8UYCEV4UyrTHQ",
-          "title": "Ki vagy te valójában? - Podcast",
-          "description": "Üdvözöllek a Ki vagy Te valójában podcast csatornán, ahol olyan Magyarországon ismert közösségi médiában szereplő személ",
-          "thumbnail": "https://yt3.ggpht.com/cPwwyXoZ4mzuZcoGrn_v03aNqy2htKMr3yTmTafc0Ifn5txG6zwsQ-I2QPlsHwFZphN0dzl6Rg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 56600,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI9UDXzfjg8UYCEV4UyrTHQ"
+          "id": "UCgPkv0mfqGmBPhZURmoTGMw",
+          "title": "Dicsőségről Dicsőségre",
+          "description": "Meggyőződésünk, hogy a legnagyobb örömet Istenben találhatjuk meg - abban, hogy kutatjuk Őt és az Ő dicsőségét - ezt ped",
+          "thumbnail": "https://yt3.ggpht.com/Bkq-A4lYoNNEsqAu2vmXDcXBU9cxPOvyoOMsRWfzSr_VUBJ7HxvQk6OP263Rqay2dB7fItS2=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 236,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgPkv0mfqGmBPhZURmoTGMw"
         },
         {
-          "id": "UCWHCUXx4Q4W-CSsBXv8Yj0A",
-          "title": "Megmondók",
-          "description": "A megszokott szókimondó hangulat, őszinte vélemények és a magyar futball legizgalmasabb témái mellett idén még több néző",
-          "thumbnail": "https://yt3.ggpht.com/krqsYFiKHhtCgjuT5fYBpRTAoHPypQzTfZaldVBf5kJovS5dyERe7FjWM2Hr835CdOaFcWko-_Y=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 32600,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWHCUXx4Q4W-CSsBXv8Yj0A"
+          "id": "UCGRgbCcprcewn0SWv7eze_A",
+          "title": "AgiTale – Agilis projektmenedzsment magyarul",
+          "description": "AgiTale egy magyar nyelvű csatorna, amely az agilis projektmenedzsmenttel, scrum keretrendszerrel, kanbannal, és termékm",
+          "thumbnail": "https://yt3.ggpht.com/ZSPtnU0rsKJsluJRB6-UzHQ-FW4yBJH_BL0jJYPM-jMkRAxMrX_eBEMk6WBlMOxhHAVuJi-h2to=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 162,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGRgbCcprcewn0SWv7eze_A"
         },
         {
-          "id": "UCN04_yhoJX1v-725e7q02EA",
-          "title": "Partizán Podcast",
-          "description": "Támogasd a munkánk! \nhttps://cause.lundadonate.org/partizan/adomany\n\nA Partizán Podcast oldalait itt találod: \nRSS: http",
-          "thumbnail": "https://yt3.ggpht.com/CCOSrRegcH5EDkdROeRUzAiSNtR_1RBnXre-LEwiXLhj4H_srMm0Wrx2vEtZuMxEYfMrt39Z=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 26900,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN04_yhoJX1v-725e7q02EA"
+          "id": "UCURdTee7_-nW6fAtakAhiFg",
+          "title": "Turbó Érettségi",
+          "description": "Érettségi 26/27? Nálunk ez nem szenvedés, hanem egy jó szokás - napi pár perc, telefonon, és megy magától.\n\n100+ kidolgo",
+          "thumbnail": "https://yt3.ggpht.com/e2YqmrqCJfR3gAN3jGJuAcfeOw6h8Xla9wC3v0GPPV7DHmY-EgTBe_-L3pQDrremHURj1yFHUA=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 26,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCURdTee7_-nW6fAtakAhiFg"
         },
         {
-          "id": "UCpymvxfn10N4Ou1nNZlEdAg",
-          "title": "Spacejunkie podcastok",
-          "description": "A Spacejunkie csapat évek óta szervez podcast beszélgetéseket a magyar tudományos élet kiemelkedő szereplőivel, tudósokk",
-          "thumbnail": "https://yt3.ggpht.com/iSM9UgWQM3u2jq6j8hro_pOo6gKgYGryl3eeasglUIboAJ7MkhQ-4H648kkBGi3DtERjfHVoCA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 4580,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpymvxfn10N4Ou1nNZlEdAg"
-        },
-        {
-          "id": "UCVN0CtCjjpYfoPsgrUt8pHw",
-          "title": "LION RAMPANT PODCAST",
-          "description": "Magyarország egyetlen Chelsea FC-s podcastje! Friss hírek első kézből, elemzések, beszélgetések a Magyar Chelsea Szurkol",
-          "thumbnail": "https://yt3.ggpht.com/SutP3-bBJgHvXiE94r8FwV2Lt48EYCCe3PMoq54bwEp4NtKYzVlB_OvZu8OgyJvIjF9XP7Pe-RY=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1760,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVN0CtCjjpYfoPsgrUt8pHw"
-        },
-        {
-          "id": "UCCptQeiXsHSChOGZ4IMspsg",
-          "title": "Kozmetikus Podcast",
-          "description": "Beszélgetésre invitálok kozmetikus kollégákat, szakembereket, a kozmetikus szakmát valóban segítőket. Szakmán belül külö",
-          "thumbnail": "https://yt3.ggpht.com/3jCyEvA0aJDITuEVOdtonS7lma5JsiGkXCtDkgwtPDn-GL85uzLkaKY5elKMVs7qbB4CmlB0=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 970,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCptQeiXsHSChOGZ4IMspsg"
-        },
-        {
-          "id": "UCpfNXyAs64PXHFTDVIv-v-w",
-          "title": "Magyar Nemzet Podcast - Topic",
+          "id": "UC0njrm3RRU-PyUA5WfAFMlg",
+          "title": "Paulus Alapítvány",
           "description": "",
-          "thumbnail": "https://yt3.ggpht.com/6HkJOhBV65oB_JjdMEunUypKPg4_J8prH_mvFvBr0L_QgEviyl3dNqVRuCH7r5Mg7F5nWkWEIQ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 97,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpfNXyAs64PXHFTDVIv-v-w"
+          "thumbnail": "https://yt3.ggpht.com/FFJg-zd6ZqYoSHLOQ4ZoLiFz8ZaIHFcESWB8AusLO48-9oI-AhLmX3hGm7o-98fGOgFLPYSx=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 11,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0njrm3RRU-PyUA5WfAFMlg"
         }
       ]
     },
@@ -264,19 +232,11 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8p1vwvWtl6T73JiExfWs1g"
         },
         {
-          "id": "UCuFFtHWoLl5fauMMD5Ww2jA",
-          "title": "CBC News",
-          "description": "As Canada's national public news and information service, the CBC is committed to a set of values that include accuracy,",
-          "thumbnail": "https://yt3.ggpht.com/9bJu0WRWPRgja30h3i5gh3Mg4T94dVfcm6L8SEhjkM3j-AwqFKQZp1JxLhXpSVYzQjJTOXiw2vM=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 4750000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuFFtHWoLl5fauMMD5Ww2jA"
-        },
-        {
           "id": "UCEXGDNclvmg6RW0vipJYsTQ",
           "title": "Channels Television",
           "description": "Channels Television is Africa’s most awarded broadcaster. It is a multiple award-winning 24-hour news and media organiza",
           "thumbnail": "https://yt3.ggpht.com/hBmtX1OA-mMEdfPqPdLzFxVeAlXKrc_wLU2z0la9sjIuTdjH_L7ISQl89c1AG2fkRAIQlTz_Hw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 3830000,
+          "subscribers": 3840000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEXGDNclvmg6RW0vipJYsTQ"
         },
         {
@@ -284,7 +244,7 @@
           "title": "CBN News",
           "description": "CBN News is an international, nonprofit news organization that provides programming 24 hours a day by cable, satellite a",
           "thumbnail": "https://yt3.ggpht.com/ev4M4-4mLO6bj3tiYwh5gDqLKFIEMYNtfoQdab2fyEfJbehipv1n5r8HTsYQGfxuaYRC4eUnMdk=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 2860000,
+          "subscribers": 2870000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYI_ychRnL7sJrG6PUSBpQA"
         },
         {
@@ -294,6 +254,14 @@
           "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k1_mRYQG-HAspwbSjYcshWT6yECtfxdmfmCfIchUZsWHB9=s88-c-k-c0x00ffffff-no-rj",
           "subscribers": 2790000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlIS7z20CnVaCrMvdkig_g"
+        },
+        {
+          "id": "UCi7Zk9baY1tvdlgxIML8MXg",
+          "title": "CTV News",
+          "description": "CTV News is Canada's most-watched news organization both locally and nationally, and has a network of national, internat",
+          "thumbnail": "https://yt3.ggpht.com/F1QF1sUtJvIrLSb4VOuDBWxeizO_WupZOf_dV9LLn47rJDpNAl8irkfBwVOnHvnuLgLt-xjVGks=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 2400000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7Zk9baY1tvdlgxIML8MXg"
         },
         {
           "id": "UCDvJcb8Adv-_bOrtnRLmiDw",
@@ -346,7 +314,7 @@
           "title": "Prasadtechintelugu",
           "description": "Technology , Smartphone Reviews , Unboxing Gadgets , Electronics , Gadget Reviews, Tech videos, Tech Q&A , Technews\nWelc",
           "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lruRqXcu0HALPqtLYA2bOuxiPWRgD6Gn389lG5BgVN2fw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 5170000,
+          "subscribers": 5180000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCb-xXZ7ltTvrh9C6DgB9H-Q"
         },
         {
@@ -370,7 +338,7 @@
           "title": "Brick Technology",
           "description": "I push LEGO to its limits\n\nQ: Where to buy Lego parts?\nA: Bricklink\n\nQ: Do you provide instructions / part lists?\nA: Unf",
           "thumbnail": "https://yt3.ggpht.com/7QMRvHdlzbb-ZggL_a0Qq0GBLZDw9yQJyxpdQRG34UNBnGPK7ehEWe74QDfxkbq8PCSc8XuBmg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 2660000,
+          "subscribers": 2670000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUuvZ0skL2WYZ3rhPMZbfdA"
         },
         {
@@ -440,7 +408,7 @@
           "title": "Smithsonian Science Education Center (SSEC)",
           "description": "The Smithsonian Science Education Center is Transforming K-12 Education Through Science in collaboration with communitie",
           "thumbnail": "https://yt3.ggpht.com/WBT3kCImpBT4SjyCUazV8Vl-wQCPfm1CrlKQ6lFl5qvkbgZFMFV3TW4qmKX7C049rZPNzmYfNuc=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 26100,
+          "subscribers": 26200,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6dyNTnSopdgye2gQBVSNVg"
         },
         {
@@ -578,14 +546,6 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqg3BHb31w2h77vFuTFmp2w"
         },
         {
-          "id": "UC6zzlBIwNS9GJZZ3rBx_WhQ",
-          "title": "Hudson's Playground Gaming",
-          "description": "Hudson's Playground Gaming is a channel me and Hudson decided to make featuring family friendly gaming! We will play far",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m8CaUqqYcIU2V8i1Td03-Drg3saRiRb1WBEZi-Oij-Lsw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 2650000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6zzlBIwNS9GJZZ3rBx_WhQ"
-        },
-        {
           "id": "UCcj5uTX8Z1xGB0pGm_X52XQ",
           "title": "Gamster Gaming",
           "description": "Hola Soy Gamster, streamer que le gusta bailar y hacer tonterías en los juegos\n",
@@ -626,6 +586,14 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqmcAvY-lLQHJcfOHJavGQ"
         },
         {
+          "id": "UCPUdvCCbW1_o78jRxjEYgdQ",
+          "title": "GameRig",
+          "description": "Welcome to GameRig! 🎮💻\n\nAt GameRig, we believe you don’t need a NASA supercomputer to enjoy gaming. Our channel is all a",
+          "thumbnail": "https://yt3.ggpht.com/9YJmZNGDDZ4k_Od7LJxudddpvN7pe44kEEY1xndTIyOyWTlBEX-HYTS3DGWGQpm6vZnWp6NU5Q=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 210000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPUdvCCbW1_o78jRxjEYgdQ"
+        },
+        {
           "id": "UCN7z0S0GJCcfdJlLCXPedsQ",
           "title": "Telluride Bush Gaming",
           "description": "Sas, Mook, & Jerry are building a Call of Duty Challenger's team and documenting the process along the way. ",
@@ -656,6 +624,14 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQpPo9BNwezg54N9hMFQp6Q"
         },
         {
+          "id": "UCUvvj5lwue7PspotMDjk5UA",
+          "title": "Meet Kevin",
+          "description": "Hey everyone, Meet Kevin here! I want you to always remember one thing about me: I BELIEVE in \"providing more\" in everyt",
+          "thumbnail": "https://yt3.ggpht.com/vSezmVLCxI0lg3wf6K0-7ulOnHZ5GhG-a4llulOs0lvQf9dJKWR9j6JMWJHLQgu4WTYCKopw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 2050000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUvvj5lwue7PspotMDjk5UA"
+        },
+        {
           "id": "UCL_v4tC26PvOFytV1_eEVSg",
           "title": "Marko - WhiteBoard Finance",
           "description": "My mission is to provide my viewers with actionable content that enables them to create financial wealth. My videos are ",
@@ -676,7 +652,7 @@
           "title": "Investing Simplified - Professor G",
           "description": "My goal is to set you up for success by making investing & personal finance much more simple!\n\nI was frustrated with my ",
           "thumbnail": "https://yt3.ggpht.com/iO7OIvwb-yyFEi6Dv0CBSwK39W4UIRGCDwMV2XxgTo94hhjtsy5-b7WyiiTg2rvPK4JGb2lvLg4=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 468000,
+          "subscribers": 469000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr4XXQznhlgfzo4mwOgkF8w"
         },
         {
@@ -684,7 +660,7 @@
           "title": "Casual Finance",
           "description": "i make finance videos |\n\nfor business inquiries: contact.casualfinance@gmail.com |\n\nDisclaimer: I am not a financial adv",
           "thumbnail": "https://yt3.ggpht.com/OLlODfUyCriQ2fDAOKs58055mTZpg4mkk6Zz0FUma4Ov2xlxi2vwVACOboUfhsy79pzF80ggcQ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 373000,
+          "subscribers": 376000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrNfRFWnLC3tCy1TnyhVQ7g"
         },
         {
@@ -696,19 +672,11 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXzNNA2ngRpRiWvyA7eGd6w"
         },
         {
-          "id": "UCZ-J2m1AUSLnifUEKam5_dA",
-          "title": "Verified Investing",
-          "description": "Verified Investing is your daily home for institutional-grade market analysis — built for the every man, not just the pr",
-          "thumbnail": "https://yt3.ggpht.com/hYxL_iyEhbvYrVy7ETTywiKvxYyAWRVZJw5BUmI3-oZPlq-0mD2QwqUf6clMNgdnK_eocY8bOg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 130000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZ-J2m1AUSLnifUEKam5_dA"
-        },
-        {
           "id": "UCvWx0-NX-9qVLCSW9yjdX-g",
           "title": "Future Investing",
           "description": "I am a 28-year-old fintech fanatic who loves covering stocks in finance and other support technology niches. Say hello i",
           "thumbnail": "https://yt3.ggpht.com/wtrUc2rkIKHs7KQ64Fj5mNkhw4nxSX1VOv6fcQbJUC9gA9DYmoU_xGWksxR9JkR-A6HAhJLBGQ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 80600,
+          "subscribers": 80700,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvWx0-NX-9qVLCSW9yjdX-g"
         },
         {
@@ -716,7 +684,7 @@
           "title": "Investing Uncomplicated",
           "description": "Welcome to Investing Uncomplicated – where the everyday person becomes the everyday investor.\n\nIf you’ve ever felt like ",
           "thumbnail": "https://yt3.ggpht.com/7_s9uqh63683InVcPVSmfiT3XMM8H-VH1xOxa75C6Hk1EXRZQ9eWs7crme8dEL8i50j6ZWERow=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 76300,
+          "subscribers": 76400,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp9okfQXIf4Ttr-ZIa4IlXw"
         },
         {
@@ -732,7 +700,7 @@
           "title": "Invest Finance",
           "description": "",
           "thumbnail": "https://yt3.ggpht.com/rmIUvwj8i9m39k1m_eFhFHsV5dZ4GpZ-grt42zPDCPFngMEqG56Zph-tMXTTjR-dZr8B82w9JA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 725,
+          "subscribers": 726,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy6SA_uWagd1x7-jsgXvFKA"
         }
       ]
