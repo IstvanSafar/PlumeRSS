@@ -1,18 +1,10 @@
 {
-  "updated": "2026-11-04T11:42:49Z",
+  "updated": "2026-11-05T11:42:09Z",
   "categories": [
     {
       "id": "HU_news",
       "label": "🇭🇺 Magyar hírek",
       "channels": [
-        {
-          "id": "UCAvx9uxtvhnxNpnjutUei5A",
-          "title": "Hír TV",
-          "description": "A Hír TV elsődleges feladatának tekinti, hogy a nézők számára hiteles és jól befogadható módon tegye lehetővé azt a szél",
-          "thumbnail": "https://yt3.ggpht.com/orHL8-mWVJgfMgBMOuWCJts0np3nlaMxcu8dqyQfh9AhNO1Ncd__w9cs8k0mvzV780lzVix8=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 315000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAvx9uxtvhnxNpnjutUei5A"
-        },
         {
           "id": "UCHJ8gW2vKH5R3VohymtBCrQ",
           "title": "M1 - Híradó",
@@ -30,6 +22,22 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx_vIPtaguhj9fyIs91PUIw"
         },
         {
+          "id": "UCHd7a3FbnCbCGrmQ4uNPXdQ",
+          "title": "RTL Hírek",
+          "description": "Az RTL Hírek hivatalos YouTube-csatornája: napi Híradó-riportok, exkluzív interjúk és terepi tartalmak a magyar közéletb",
+          "thumbnail": "https://yt3.ggpht.com/UKmOUDKYarwVl8QX8MFkBNSdB4rZpwH2g-Yd3NSSDF3-8mzzAhAsyC9psYHFxjbFxwsyC-oZ=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 21200,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHd7a3FbnCbCGrmQ4uNPXdQ"
+        },
+        {
+          "id": "UCodcyAnW1-3t_5vHszMfEeQ",
+          "title": "Győri Hírek & Magazin",
+          "description": "Az Oxygen Media 2008 óta a régió meghatározó media vállalkozása. Cégünk legfontosabb eleme a csapatmunka! Nálunk olyan k",
+          "thumbnail": "https://yt3.ggpht.com/zMsmcHL6edZwFjGKNdOK9eiTUH2dse-Xwx0JZPOL08cCxywgig1CByMKJIGwflnTCwMuziQJ=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 9020,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCodcyAnW1-3t_5vHszMfEeQ"
+        },
+        {
           "id": "UCKLQn_xAD6-hfHvc9nR4xLA",
           "title": "Orosz Hírek",
           "description": "Oroszország hírei magyarul. Tartalomszolgáltató partnerünk a Ruptly",
@@ -42,7 +50,7 @@
           "title": "Hírek, ahogy én látom",
           "description": "Magyarország első mulatós-zenés polgármestere",
           "thumbnail": "https://yt3.ggpht.com/vLjoy-qW1OdU5Ox0vbcc_J9SmVwvI9aGudQwN3VoJua7669VNr4w3oaC3CgUqeWQzbmNMjS2SA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 7290,
+          "subscribers": 7300,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP14yOsLZxNkVe_Qs0iRotw"
         },
         {
@@ -50,7 +58,7 @@
           "title": "Betiltott hírek ",
           "description": "Külpolitika másképpen - Podcast a világ eseményeiről egy keresztény újságíró szemszögéből",
           "thumbnail": "https://yt3.ggpht.com/JHlOPGskaaeBtqE38kGMiaV6dO2MKt9z8KByp-wU9DiDkIGGOlaq9oq-a5Bx3VRP6eD64sguzg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 5040,
+          "subscribers": 5060,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrfzrjfZP9Dv5G2WQmdQDoQ"
         },
         {
@@ -70,14 +78,6 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs79hT5oifTehKExLA5CUvA"
         },
         {
-          "id": "UCyVtof2ik92xrS3TfHWhHkQ",
-          "title": "Hírek.sk",
-          "description": "",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mlrfIsFO6T6d3Ze4LTLMI5GyOV721-uuomZAoM1J8=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 3190,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyVtof2ik92xrS3TfHWhHkQ"
-        },
-        {
           "id": "UCMAxzUYO90ZvYyX7ZbUUdsw",
           "title": "Amerikai Hírek Objektívan",
           "description": "Összefoglalom objektívan mi történik amerikában és kanadában a politika és gazdaság világában.\nTöbb mint 30 éve észak am",
@@ -86,20 +86,20 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMAxzUYO90ZvYyX7ZbUUdsw"
         },
         {
-          "id": "UCR5bAXzF-hO7H1VDToTKXQA",
-          "title": "Dunakanyar Hírek",
-          "description": "",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lzraBul1I5splpFccrlwpC5xFKgkI8ewB82ZLyiWnqkJs=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1340,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR5bAXzF-hO7H1VDToTKXQA"
+          "id": "UCU-Dv0tbldKOeuZukDAzqpg",
+          "title": "Le Mans hírek",
+          "description": "Az Eurosport Le Mans, WEC és sportautó témákkal foglalkozó Youtube-csatornája. Hallgasd meg a Le Mans Podcast legfrisseb",
+          "thumbnail": "https://yt3.ggpht.com/qJuWxvdkGPmY8eynzCm534wug0_uiXpUTACnT1L3SB0TdX6Hgr6ker2MyCYUbnw5x4_ionS4ECU=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 2130,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCU-Dv0tbldKOeuZukDAzqpg"
         },
         {
-          "id": "UChBYuE8NspwMoE6P61owvAA",
-          "title": "Hetek Hírek",
-          "description": "",
-          "thumbnail": "https://yt3.ggpht.com/yz3s5NYH0r1P46N7FMwq_I-yIhZh-A-RFVX-GRd-u1jvGO682D_HAoazmSu9wKfV-Ctd2ZqwkQ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1230,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChBYuE8NspwMoE6P61owvAA"
+          "id": "UCZIdIb_uc5i8dtIOVPaTvRQ",
+          "title": "Munkanélküli hírek",
+          "description": "Csak a legfontosabb híreket osztjuk meg veletek minden hónapba!!",
+          "thumbnail": "https://yt3.ggpht.com/7VrrGWgxpz5kh0GBQ-pFWb7Pb0wiOuWfmybxSZAP0qvxXn5_tq5QNicWfXqsrTn8O6jS5P6CEw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 1750,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZIdIb_uc5i8dtIOVPaTvRQ"
         }
       ]
     },
@@ -120,7 +120,7 @@
           "title": "Adam's Garage",
           "description": "Autós tartalom",
           "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l8JPampfc1xH0ggPyrnSpzI_n3FnKLImbKdzpiqUKhSA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 693,
+          "subscribers": 694,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_T_06K-8azST8C_YQHh7w"
         },
         {
@@ -154,14 +154,6 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQAeX1_gw45xb3Cg-OwEFcw"
         },
         {
-          "id": "UCM-1sd-cXSuCsfWp8QMY_OQ",
-          "title": "Telex․hu",
-          "description": "Ez a Telex.hu internetes újság videócsatornája, ahol híreket, elemzéseket, portrékat, riportokat, emberkísérleteket talá",
-          "thumbnail": "https://yt3.ggpht.com/IoNX0mIrAhc7vGKSVR9TBlsiuC_GAtDUPzxpdg4t_cDZ0hTlPkH_d90h1DtJknvGLELU2ahHy-M=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 467000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM-1sd-cXSuCsfWp8QMY_OQ"
-        },
-        {
           "id": "UCTY9vSAwOVsXw1lE1vBD0Hg",
           "title": "TheVR Podcast",
           "description": "Minden ami TheVR Podcast.",
@@ -174,7 +166,7 @@
           "title": "Magyar Közöny Podcast",
           "description": "Sokan mondják, hogy a magyar embert nem érdekli más, csak a saját boldogulása.\nA magyar embernek nem fontos más, csak a ",
           "thumbnail": "https://yt3.ggpht.com/vf7939EXsCFx4f2sMNwC0oWdaiCVPvHsEWjPKg46PzvRwyjFYAE6IqXAj62qvFCJOeHBsJY=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 68300,
+          "subscribers": 68400,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBfVaxkSqXOmCX4pge_rbYw"
         },
         {
@@ -182,7 +174,7 @@
           "title": "BŰNtények Podcast",
           "description": "Megtörtént bűnesetek feldolgozása MAGYARUL. Ha Te is True Crime és krimi rajongó vagy, hallgasd a sokszor hátborzongató ",
           "thumbnail": "https://yt3.ggpht.com/4bTNxaEcXBaPGcrb2mcVmAcv-aHeyedHTTIR0rL5ZwHGUfM4Tqm_E8Vb5Vlkbmyno6QgbrqnRw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 65400,
+          "subscribers": 65500,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCapGzbkHLxY_Vl0vHPvCozg"
         },
         {
@@ -190,7 +182,7 @@
           "title": "Ki vagy te valójában? - Podcast",
           "description": "Üdvözöllek a Ki vagy Te valójában podcast csatornán, ahol olyan Magyarországon ismert közösségi médiában szereplő személ",
           "thumbnail": "https://yt3.ggpht.com/cPwwyXoZ4mzuZcoGrn_v03aNqy2htKMr3yTmTafc0Ifn5txG6zwsQ-I2QPlsHwFZphN0dzl6Rg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 58900,
+          "subscribers": 59000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI9UDXzfjg8UYCEV4UyrTHQ"
         },
         {
@@ -206,7 +198,7 @@
           "title": "Partizán Podcast",
           "description": "Támogasd a munkánk! \nhttps://cause.lundadonate.org/partizan/adomany\n\nA Partizán Podcast oldalait itt találod: \nRSS: http",
           "thumbnail": "https://yt3.ggpht.com/2nvarJ0bcMGMnVp8cSVkZv2bc0B3jQlN2sTONCT-U0WmayEGtXB-dJJa5l7JEQagU_8M4Gs5=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 26900,
+          "subscribers": 27000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN04_yhoJX1v-725e7q02EA"
         },
         {
@@ -222,7 +214,7 @@
           "title": "Daniel Magyar",
           "description": "",
           "thumbnail": "https://yt3.ggpht.com/YMg1-qA-WmO24BApV4nO0XV-Gm8F2dpTelUHzfPMq1g2TRavIEchFbuyHw5CyESq53UxfayJ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 20100,
+          "subscribers": 20200,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpCsHlrqqppBdiiPSjkA6Q"
         },
         {
@@ -240,6 +232,14 @@
           "thumbnail": "https://yt3.ggpht.com/qONUfl9rVcLdA_uFRKgv-ruVA300TEa5qyL3COJr-tvdvQGaaiUZP-Cw422YZGNOjHRa2I0X12M=s88-c-k-c0x00ffffff-no-rj",
           "subscribers": 3730,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLV5eW6hTwBdhX5nV8JNyqw"
+        },
+        {
+          "id": "UCpfNXyAs64PXHFTDVIv-v-w",
+          "title": "Magyar Nemzet Podcast - Topic",
+          "description": "",
+          "thumbnail": "https://yt3.ggpht.com/6HkJOhBV65oB_JjdMEunUypKPg4_J8prH_mvFvBr0L_QgEviyl3dNqVRuCH7r5Mg7F5nWkWEIQ=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 102,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpfNXyAs64PXHFTDVIv-v-w"
         }
       ]
     },
@@ -296,12 +296,12 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE5ni-d_ZdEqtvvd8FlkMbA"
         },
         {
-          "id": "UCinjnmQEwCddOudyCC1v7qA",
-          "title": "KTLA 5",
-          "description": "KTLA 5 in Los Angeles covers breaking news, weather and traffic for L.A., Orange, Riverside, San Bernardino and Ventura ",
-          "thumbnail": "https://yt3.ggpht.com/6gDR5yI9WkBQoRtITktRsZRkLl8Jb0Iq13X93_t6nabx_xVtGhgzXcgB4hUP6QHUOmwehmQm=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1520000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCinjnmQEwCddOudyCC1v7qA"
+          "id": "UCuxgEyMeaks7HS5gAw6Tt7w",
+          "title": "ILTV Israel News",
+          "description": "ILTV Israel News is an independent English-language media company based in Tel Aviv, Israel that provides daily Israel n",
+          "thumbnail": "https://yt3.ggpht.com/Rtuxpwkw3KkpwXb7na3mLyuu0vw8Se8T3wipU4EkDPRy7FfxBT0NchS7Ll7e0a6eV5RVDD6A=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 879000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuxgEyMeaks7HS5gAw6Tt7w"
         },
         {
           "id": "UCDvJcb8Adv-_bOrtnRLmiDw",
@@ -358,6 +358,14 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw"
         },
         {
+          "id": "UCb-xXZ7ltTvrh9C6DgB9H-Q",
+          "title": "Prasadtechintelugu",
+          "description": "Technology , Smartphone Reviews , Unboxing Gadgets , Electronics , Gadget Reviews, Tech videos, Tech Q&A , Technews\nWelc",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lruRqXcu0HALPqtLYA2bOuxiPWRgD6Gn389lG5BgVN2fw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 5220000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCb-xXZ7ltTvrh9C6DgB9H-Q"
+        },
+        {
           "id": "UCVLZmDKeT-mV4H3ToYXIFYg",
           "title": "Insider Tech",
           "description": "What you want to know about tech. A section of Business Insider.\n\nVisit our homepage for the top stories of the day: htt",
@@ -382,28 +390,20 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUuvZ0skL2WYZ3rhPMZbfdA"
         },
         {
-          "id": "UCeeFfhMcJa1kjtfZAGskOCA",
-          "title": "TechLinked",
-          "description": "TechLinked keeps you up to date with a fast, funny roundup of the latest tech news every Monday, Wednesday, and Friday.\n",
-          "thumbnail": "https://yt3.ggpht.com/_7NuLsyaCWL63spCS74vy7RGd8s5cwx0FATJTvEeew3OH5d7TuD9hGcxbrhoYcMFT4mBxaJm=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1980000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA"
-        },
-        {
           "id": "UCKWaEZ-_VweaEx1j62do_vQ",
           "title": "IBM Technology",
           "description": "Whether it’s AI, automation, cybersecurity, data science, DevOps, quantum computing or anything in between, we provide e",
           "thumbnail": "https://yt3.ggpht.com/7qCmNHAsFvD6RSINuJ1WoGZYoKmm7TDnhORKFqLb8QoeOFh2qFXal8brkzoxNrwqmJTuvOLs=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1830000,
+          "subscribers": 1840000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ"
         },
         {
-          "id": "UC4Z8mPYjn6Dhr6n531YDh0Q",
-          "title": "UFD Tech",
-          "description": "Tech Stuff.\n\nP.O. Box 112707\nPittsburgh, PA 15241\n",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_molzmMcjo7X_BgjTLe6uO6xkNdEp1OcIRz5p2Yhu_peg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1520000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4Z8mPYjn6Dhr6n531YDh0Q"
+          "id": "UCz6PEeVLG1TL6jMRTvSLm4g",
+          "title": "Matt Talks Tech",
+          "description": "If you would like to contact for a SPONSOR, to Review a Product or Service for you, please contact me via; contact@mattt",
+          "thumbnail": "https://yt3.ggpht.com/xXu1zRVwSl_NLCykuJo5iiOO-NsqoJLSmOLaImDoSBz1k54PHfZJFkIPCGSh-T-oda7ft1OZ-w=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 821000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz6PEeVLG1TL6jMRTvSLm4g"
         },
         {
           "id": "UCYVU6rModlGxvJbszCclGGw",
@@ -554,100 +554,100 @@
       "label": "🎮 Gaming",
       "channels": [
         {
-          "id": "UCOpNcN46UbXVtpKMrmU4Abg",
-          "title": "Gaming",
-          "description": "YouTube's gaming channel, featuring news, reviews, playthroughs, and more.\nThis channel was generated automatically by Y",
-          "thumbnail": "https://yt3.ggpht.com/GFc_A-blEltrFJDdN_Hhq7wMxATv1u1LWHF87HZ7duVPBYWfwjeL-mZ8cV2_2hiQfFiHIdM-IXI=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 91700000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpNcN46UbXVtpKMrmU4Abg"
+          "id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+          "title": "jacksepticeye",
+          "description": "I play videogames but I also make other content like Try not to laugh, reacting to tik toks, meme review and IRL content",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m7K306sLhJfQqGAMnuHdEBTwdqBA4gVTGa_FtEmarXd34=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 31100000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzPXprvl5Y-Sf0g4vX-m6g"
         },
         {
-          "id": "UCto7D1L-MiRoOziCXK9uT5Q",
-          "title": "Let's Game It Out",
-          "description": "A gaming let's play channel by some guy named Josh who makes fun-loving videos filled with joy and sarcasm.\n\nFor busines",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRBG_p61vExRtIGDam4OcTadOi1xwsoZX9sImEJk9f76Y=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 6550000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCto7D1L-MiRoOziCXK9uT5Q"
+          "id": "UCKqH_9mk1waLgBiL2vT5b9g",
+          "title": "VanossGaming",
+          "description": "Official Vanoss Gaming YouTube Channel.",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mrzXEes8j0Li9x1M2wO0dif1mW10t_lmgrDcxllRfaJNE=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 26000000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKqH_9mk1waLgBiL2vT5b9g"
         },
         {
-          "id": "UC3S6nIDGJ5OtpC-mbvFA8Ew",
-          "title": "Orange Juice Gaming",
-          "description": "Hello I'm OJ\n\nI do mobile games like Clash Royale, Brawl Stars, Clash of Clans and other Supercell games.\n",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nBiAlsLYVgvCMI1q--JQiPw12WECp3CCVK7u8kgymzGhA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 3630000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3S6nIDGJ5OtpC-mbvFA8Ew"
+          "id": "UCo_IB5145EVNcf8hw1Kku7w",
+          "title": "The Game Theorists",
+          "description": "Hello Internet! Welcome to GAME THEORY! If you’re like us, then you’ve probably wondered about the secrets hidden in you",
+          "thumbnail": "https://yt3.ggpht.com/gAJD51t1xvjXeUfbG2UfDFvrAYGrku5Wsh0S5IwVfCaDUBVV8F9FOGJ8XMLo_nXKVez08QPPxw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 19600000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo_IB5145EVNcf8hw1Kku7w"
         },
         {
-          "id": "UC6zzlBIwNS9GJZZ3rBx_WhQ",
-          "title": "Hudson's Playground Gaming",
-          "description": "Hudson's Playground Gaming is a channel me and Hudson decided to make featuring family friendly gaming! We will play far",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m8CaUqqYcIU2V8i1Td03-Drg3saRiRb1WBEZi-Oij-Lsw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 2730000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6zzlBIwNS9GJZZ3rBx_WhQ"
+          "id": "UCJZam2u1G0syq3kyqrCXrNw",
+          "title": "PrestonPlayz",
+          "description": "🔥 Fueled by fun, family, and faith! We're building something special here: a community where we can game, grow, and enjo",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lsdcmmUcwdYIBXTz4H3bae3QalHQcbCHg9aJs6ve4HZZM=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 17900000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJZam2u1G0syq3kyqrCXrNw"
         },
         {
-          "id": "UCVjCsq6PCd1RxrhkOfuGMsw",
-          "title": "T Gaming",
-          "description": "🔹FB : https://www.facebook.com/ChungTung1998\n🔹 LIÊN HỆ QUẢNG CÁO : booking@noobteam.vn\n",
-          "thumbnail": "https://yt3.ggpht.com/nbfcFzjP5cflWm6-0s3w8Ue_GgdC7gt0EendjrtH9YBwmTJ4_qcEDxyDA5xwtTS3M7kJbxrzDg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 2620000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVjCsq6PCd1RxrhkOfuGMsw"
+          "id": "UC6VcWc1rAoWdBCM0JxrRQ3A",
+          "title": "Rockstar Games",
+          "description": "The official home of Rockstar Games on YouTube \n",
+          "thumbnail": "https://yt3.ggpht.com/f0PgbUq0tAdrt_rQxprZdPfgg96y54Ge-LCagXvPzc6gnMiw42w-J-wAZ2n-TfXgB3ASkxk2=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 13900000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A"
         },
         {
-          "id": "UCcj5uTX8Z1xGB0pGm_X52XQ",
-          "title": "Gamster Gaming",
-          "description": "Hola Soy Gamster, streamer que le gusta bailar y hacer tonterías en los juegos\n",
-          "thumbnail": "https://yt3.ggpht.com/qm5hp403nfOqTe1ok8P1jgyKGufmFnJhwg2KgBTyMI49DhbLses4D3sc-yW87cVAZfdm4Z9f=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1940000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcj5uTX8Z1xGB0pGm_X52XQ"
+          "id": "UCzXwjTI6c6mVn6oui_p6oiw",
+          "title": "SMii7Y",
+          "description": "Pronounced \"Smitty\" -  Gameplay, Funny Moments, Hilarity & More!\n\nUse code S7 on Gamer Supps for 10% OFF your order! htt",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPtRF9gjBwYY0sZXjNfrhVmND-OaL_sMYvsX1-_lyqbVA=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 9100000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzXwjTI6c6mVn6oui_p6oiw"
         },
         {
-          "id": "UC135_IPK8XOEEdXdtcseR4w",
-          "title": "CKN Gaming",
-          "description": "Welcome to CKN Gaming .\nThis is the official CKN  channel where we will be playing our favorite games .",
-          "thumbnail": "https://yt3.ggpht.com/mTA4EuaCo1W5cWOIaSePIw8Ope0NHHBIewmJ_PHNBJD7tL2pWxObK2hTb0UwiGK3rl6bszPR=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1500000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC135_IPK8XOEEdXdtcseR4w"
+          "id": "UCrfHEKgEVE4mBp1DYcRAn4Q",
+          "title": "OKEH Gaming TV",
+          "description": "We make Daily Roblox Gaming Videos and Live Comedy Entertainment with our Friends And Family\n\n",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYXY0Jx3sDQ13j49enkbg_RFfgkHzvV7JO6q7dGA2Q_og=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 7490000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrfHEKgEVE4mBp1DYcRAn4Q"
         },
         {
-          "id": "UCxdaFKaMlRHtVkBeGygsYTw",
-          "title": "Papaplatte Gaming",
-          "description": "IMPRESSUM\nAngaben gemäß § 5 Digitale-Dienste-Gesetz (DDG): \n\nGeschäftsadresse: \nnewbase GmbH \nLena Nießen\nGürzenichstr. ",
-          "thumbnail": "https://yt3.ggpht.com/tescPJkmSdVGDTGHGokrqcgKnsAff8LmfwEfAfX61H_jDAiv6na9pmDpqv22OUJeQKW_3MLr2w=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 886000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxdaFKaMlRHtVkBeGygsYTw"
+          "id": "UCfNGT03h99S3zLbyUD9FMuQ",
+          "title": "MrBeast Gaming en Español",
+          "description": "MrBeast Gaming en Español - SUSCRIBETE O YA VERÁS\n\n\nTraducción Oficial al español de @MrBeast\n",
+          "thumbnail": "https://yt3.ggpht.com/1ZL6Rj7B7qOJkfeAAIbR5PGLtlbNqpjyh8-yYXyGHitAlMfScokulqUyiZZKaKAPkSegvXeU=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 5670000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfNGT03h99S3zLbyUD9FMuQ"
         },
         {
-          "id": "UC4XAMOquYBulhFF7H_1c9ng",
-          "title": "1st Step Gaming",
-          "description": "قناة لمساعدة كل الجيمرز والكوليكتورز بتقديم نصائح ومراجعات عن الاجهزة والالعاب منور قناتك يا باشا \n\n1st Step Gaming is c",
-          "thumbnail": "https://yt3.ggpht.com/02pHIZkF6yWvnRYcajRIRzB5Tjo69Xrn_NnOIXh4Vn5pZaR9vxszSiWxwQEk7nvFIwt4z9nKdw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 540000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4XAMOquYBulhFF7H_1c9ng"
-        },
-        {
-          "id": "UCFqmcAvY-lLQHJcfOHJavGQ",
-          "title": "kAN Gaming",
-          "description": "Hey everyone! My name is kAN and I love playing video games! Join me as we play all sorts of games both solo and with fr",
-          "thumbnail": "https://yt3.ggpht.com/hywgLauoU8dCYclPQJ2M5b0lB5RHqLkEL9jl0zWM-OtjUhq0osQWdmRl7poI6A8gGX0BoqFRPA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 498000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqmcAvY-lLQHJcfOHJavGQ"
+          "id": "UCo0NaLsgPT6JrQLQGecpMyw",
+          "title": "G for Gaming",
+          "description": "hey friends :) \nwelcome to our GAMiNG CHANNEL!!\n\ni'm Adley if you didn't know.. i make fun videos with my family on my m",
+          "thumbnail": "https://yt3.ggpht.com/-KsxucaRVU1rQ-LnmEgUz1Lk_jcT2gV2KY-xNXcd5ZJfCaOerd3h-cZMTBZv_4FS4lIhdNasag=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 1620000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo0NaLsgPT6JrQLQGecpMyw"
         },
         {
           "id": "UCTHDPeOUn0xGxsKv6j_-oZQ",
           "title": "Blippi Plays - Video Games for Kids",
           "description": "The official Blippi Gaming channel! 🎮💙🧡\n\nDiscover a world of fun challenges as your favourite gamer, Blippi, ventures in",
           "thumbnail": "https://yt3.ggpht.com/tJXhBauN4eajNWzqmCxxm6o1sOIxuBmJaT-rT8lY-tyHRt5ll3aaJhaSFoR3uxBD1W9UncgzXEw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 468000,
+          "subscribers": 469000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTHDPeOUn0xGxsKv6j_-oZQ"
         },
         {
-          "id": "UCC2qegNTTL3b6StZSxxQ2Ug",
-          "title": "Not-A-Gamer Gaming",
-          "description": "Welcome to Not -A-Gamer Gaming!\n\nThe channel name says it all... I am not your average \"gamer\", I enjoy playing games bu",
-          "thumbnail": "https://yt3.ggpht.com/mzfxCEMzzmj8ug4F3mMvZMH-pMhBq4Ysy7IfZ45OGKCSnWPBRJIZ3qXMAQ30AU7Z6KLtfj-USg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 25400,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC2qegNTTL3b6StZSxxQ2Ug"
+          "id": "UC-hSZv6tzHEUqrUB6mgXvIA",
+          "title": "Kuroshiro Gaming",
+          "description": "How did we end up here?\n\nMain content: Identity V\nHunter: Sculptor (S16 10th Sculptor) (S17 2nd Sculptor) (S18 1st Sculp",
+          "thumbnail": "https://yt3.ggpht.com/na9tjXqVg2w2s76mWNsRJIHEUkZdFeh09ya12ZUXTj9NBvuRgxm2IpcnT9PQM7yLFQqW-ZYNow=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 30700,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-hSZv6tzHEUqrUB6mgXvIA"
+        },
+        {
+          "id": "UCRQFplNeWUjD9Uawh_NPFgg",
+          "title": "Jemi75 Gaming",
+          "description": "I guess I'll come back..to YouTube My Main Channel..a.k.a..\n\nI Won’t upload that often..\n\n\nI’m the real Jemi75",
+          "thumbnail": "https://yt3.ggpht.com/eZOeYc6MI46UkcGUaB4v21F29gBbiDJuVzcilqWKbCp8d9kqlakzkJcO6cmOY3cM5tXIhEXhl0U=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 26200,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRQFplNeWUjD9Uawh_NPFgg"
         }
       ]
     },
@@ -704,6 +704,14 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnMn36GT_H0X-w5_ckLtlgQ"
         },
         {
+          "id": "UCDXTQ8nWmx_EhZ2v-kp7QxA",
+          "title": "Ben Felix",
+          "description": "I post videos on investing, financial decision-making, and living a good life.\n\nMy name is Ben Felix. I am a Portfolio M",
+          "thumbnail": "https://yt3.ggpht.com/Q9La9g5drY7i94tdJrwo3gqaeFGDU7FI1o4-yTgAon1tYJ9Xgka-lREKzQic3UrW-afzm81w=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 656000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDXTQ8nWmx_EhZ2v-kp7QxA"
+        },
+        {
           "id": "UCr4XXQznhlgfzo4mwOgkF8w",
           "title": "Investing Simplified - Professor G",
           "description": "My goal is to set you up for success by making investing & personal finance much more simple!\n\nI was frustrated with my ",
@@ -718,14 +726,6 @@
           "thumbnail": "https://yt3.ggpht.com/uTXx1K3yFGSpo1hiIJsxD0C26mce7IF7hcLtP0rrixsTEiy_dlkT7yZJ4UP4f9bySno9ABN5lg=s88-c-k-c0x00ffffff-no-rj",
           "subscribers": 197000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXzNNA2ngRpRiWvyA7eGd6w"
-        },
-        {
-          "id": "UCH9HlTrjyLmLRS0iE1P4rrg",
-          "title": "Money Rules - Investing Tips ",
-          "description": "A channel dedicated to learning how to understand money and to grow wealth through the years. I'll be covering everythin",
-          "thumbnail": "https://yt3.ggpht.com/aWZjKWv7Tz_UbvUjFD7FFprc9YT1EV8PDJLceQa6jqbN0p6nkvdknUVDcL_RonRuCO8RwBshYyA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 135000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH9HlTrjyLmLRS0iE1P4rrg"
         },
         {
           "id": "UCp9okfQXIf4Ttr-ZIa4IlXw",
@@ -748,7 +748,7 @@
           "title": "Invest Finance",
           "description": "",
           "thumbnail": "https://yt3.ggpht.com/rmIUvwj8i9m39k1m_eFhFHsV5dZ4GpZ-grt42zPDCPFngMEqG56Zph-tMXTTjR-dZr8B82w9JA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 826,
+          "subscribers": 829,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy6SA_uWagd1x7-jsgXvFKA"
         }
       ]
