@@ -1,10 +1,26 @@
 {
-  "updated": "2026-11-22T12:06:51Z",
+  "updated": "2026-11-23T13:49:12Z",
   "categories": [
     {
       "id": "HU_news",
       "label": "🇭🇺 Magyar hírek",
       "channels": [
+        {
+          "id": "UC_vt34wimdCzdkrzVejwX9g",
+          "title": "Geo News",
+          "description": "",
+          "thumbnail": "https://yt3.ggpht.com/ba1XSUznVGirkC7dP-iDCf3EcL8uUjDea3-4wxkqdyWGUlCVwLXotwRNdjQBRYg7VQ4dIEI7=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 21400000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_vt34wimdCzdkrzVejwX9g"
+        },
+        {
+          "id": "UCqYw-CTd1dU2yGI71sEyqNw",
+          "title": "GMA News",
+          "description": "Welcome to the official YouTube channel of GMA News. Walang Kinikilingan. Walang Pinoprotektahan. Noon at Ngayon, Serbis",
+          "thumbnail": "https://yt3.ggpht.com/Gwe8ZHt5B2ZxijlgvtnALf1BPpzJQg8bK-IyB1iwe_OZEHy8Hwh0Q-FrRM5G46S132a451g3Cw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 18300000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqYw-CTd1dU2yGI71sEyqNw"
+        },
         {
           "id": "UCAvx9uxtvhnxNpnjutUei5A",
           "title": "Hír TV",
@@ -14,43 +30,27 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAvx9uxtvhnxNpnjutUei5A"
         },
         {
-          "id": "UCHJ8gW2vKH5R3VohymtBCrQ",
-          "title": "M1 - Híradó",
-          "description": "Az M1 a megújult közmédia napi aktuális csatornája. A hiteles, közérthető és sokoldalú tájékoztatás jegyében a Híradó el",
-          "thumbnail": "https://yt3.ggpht.com/kIRKfQe6lMq6Ylb5ckA7lH2hqWq-VITi6HuNnHX6yX3N-97UIfBv0_1WPHJ_Gj9l44aW2D18=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 232000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHJ8gW2vKH5R3VohymtBCrQ"
-        },
-        {
-          "id": "UCx_vIPtaguhj9fyIs91PUIw",
-          "title": "Magyar News Online",
-          "description": "Magyar hírek, politika, parlamenti közvetítések – naprakészen, egy helyen.\n\nA Magyar News Online a magyar közélet függet",
-          "thumbnail": "https://yt3.ggpht.com/n_mUCfD8gDr2U14wcEG-Jm9xpSWk5s0G-SWbDLxS_qKb-hsWvIDVzpJMXm0dbQM-aSgZxfvKRFE=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 60000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx_vIPtaguhj9fyIs91PUIw"
-        },
-        {
           "id": "UCHd7a3FbnCbCGrmQ4uNPXdQ",
           "title": "RTL Hírek",
           "description": "Az RTL Hírek hivatalos YouTube-csatornája: napi Híradó-riportok, exkluzív interjúk és terepi tartalmak a magyar közéletb",
           "thumbnail": "https://yt3.ggpht.com/UKmOUDKYarwVl8QX8MFkBNSdB4rZpwH2g-Yd3NSSDF3-8mzzAhAsyC9psYHFxjbFxwsyC-oZ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 24400,
+          "subscribers": 24600,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHd7a3FbnCbCGrmQ4uNPXdQ"
         },
         {
-          "id": "UCYZsw9bsZAAbpX3rsgGZleQ",
-          "title": "Ultrahang hírek ",
-          "description": "",
-          "thumbnail": "https://yt3.ggpht.com/MUPWiWdKZYVQs2uTuxEzho843Il2-9w5p1S3OEnlL7oIyNhKYBO55neMqzLMACfQ-n2KlcJV2Q=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 16200,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYZsw9bsZAAbpX3rsgGZleQ"
+          "id": "UCKLQn_xAD6-hfHvc9nR4xLA",
+          "title": "Orosz Hírek",
+          "description": "Oroszország hírei magyarul. Tartalomszolgáltató partnerünk a Ruptly",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nW088iWpaH7-Dteda-MpPeDWCA4Tlr6K5TB0kYTlS6eg=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 7460,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKLQn_xAD6-hfHvc9nR4xLA"
         },
         {
           "id": "UCP14yOsLZxNkVe_Qs0iRotw",
           "title": "Hírek, ahogy én látom",
           "description": "Magyarország első mulatós-zenés polgármestere",
           "thumbnail": "https://yt3.ggpht.com/vLjoy-qW1OdU5Ox0vbcc_J9SmVwvI9aGudQwN3VoJua7669VNr4w3oaC3CgUqeWQzbmNMjS2SA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 7340,
+          "subscribers": 7330,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP14yOsLZxNkVe_Qs0iRotw"
         },
         {
@@ -62,14 +62,6 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrfzrjfZP9Dv5G2WQmdQDoQ"
         },
         {
-          "id": "UCdPrw8kMphGFLuAgdABNjgw",
-          "title": "KecsUP Hírek",
-          "description": "Üdvözlünk a KecsUP Hírek YouTube csatornáján! 🎥📰\n\nItt első kézből értesülhetsz a legfrissebb hírekről, izgalmas riportok",
-          "thumbnail": "https://yt3.ggpht.com/fLsArWefgQo5YwyTQRcF9vfTc169JeF0yvTwo0zpZrzgxqXiI1HpvOz310Kw2BYrxefUWCL6=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 5010,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdPrw8kMphGFLuAgdABNjgw"
-        },
-        {
           "id": "UCs79hT5oifTehKExLA5CUvA",
           "title": "Alap Hírek",
           "description": "Képben lenni? - Alap.",
@@ -78,28 +70,36 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs79hT5oifTehKExLA5CUvA"
         },
         {
-          "id": "UCyVtof2ik92xrS3TfHWhHkQ",
-          "title": "Hírek.sk",
-          "description": "",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mlrfIsFO6T6d3Ze4LTLMI5GyOV721-uuomZAoM1J8=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 3190,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyVtof2ik92xrS3TfHWhHkQ"
+          "id": "UCU-Dv0tbldKOeuZukDAzqpg",
+          "title": "Le Mans hírek",
+          "description": "Az Eurosport Le Mans, WEC és sportautó témákkal foglalkozó Youtube-csatornája. Hallgasd meg a Le Mans Podcast legfrisseb",
+          "thumbnail": "https://yt3.ggpht.com/qJuWxvdkGPmY8eynzCm534wug0_uiXpUTACnT1L3SB0TdX6Hgr6ker2MyCYUbnw5x4_ionS4ECU=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 2140,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCU-Dv0tbldKOeuZukDAzqpg"
         },
         {
-          "id": "UCMAxzUYO90ZvYyX7ZbUUdsw",
-          "title": "Amerikai Hírek Objektívan",
-          "description": "Összefoglalom objektívan mi történik amerikában és kanadában a politika és gazdaság világában.\nTöbb mint 30 éve észak am",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mnKmUNFpZ90SkHiS9qtjrbJcWP5xP6McLgeuJ1BB5FMA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 2330,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMAxzUYO90ZvYyX7ZbUUdsw"
+          "id": "UCZIdIb_uc5i8dtIOVPaTvRQ",
+          "title": "Munkanélküli hírek",
+          "description": "Csak a legfontosabb híreket osztjuk meg veletek minden hónapba!!",
+          "thumbnail": "https://yt3.ggpht.com/7VrrGWgxpz5kh0GBQ-pFWb7Pb0wiOuWfmybxSZAP0qvxXn5_tq5QNicWfXqsrTn8O6jS5P6CEw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 1770,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZIdIb_uc5i8dtIOVPaTvRQ"
         },
         {
           "id": "UCR5bAXzF-hO7H1VDToTKXQA",
           "title": "Dunakanyar Hírek",
           "description": "",
           "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lzraBul1I5splpFccrlwpC5xFKgkI8ewB82ZLyiWnqkJs=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1350,
+          "subscribers": 1360,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR5bAXzF-hO7H1VDToTKXQA"
+        },
+        {
+          "id": "UCIzxoz226aeOx7je7Ea_jIw",
+          "title": "Lánycsóki Hírek",
+          "description": "",
+          "thumbnail": "https://yt3.ggpht.com/ViNH3xTDenXYyzwuH-3zGmrQHAaB0k2PfOkgHKMxATSUGLTs0fNu_XeWIEnoatmcMI_uP50_0A=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 355,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIzxoz226aeOx7je7Ea_jIw"
         }
       ]
     },
@@ -166,7 +166,7 @@
           "title": "Turbó Érettségi",
           "description": "Érettségi 26/27? Nálunk ez nem szenvedés, hanem egy jó szokás - napi pár perc, telefonon, és megy magától.\n\n100+ kidolgo",
           "thumbnail": "https://yt3.ggpht.com/e2YqmrqCJfR3gAN3jGJuAcfeOw6h8Xla9wC3v0GPPV7DHmY-EgTBe_-L3pQDrremHURj1yFHUA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 295,
+          "subscribers": 302,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCURdTee7_-nW6fAtakAhiFg"
         },
         {
@@ -232,20 +232,12 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCknLrEdhRCp1aegoMqRaCZg"
         },
         {
-          "id": "UCTrQ7HXWRRxr7OsOtodr2_w",
-          "title": "Channel 4 News",
-          "description": "News that's committed to challenging expectations with stories that reveal and inspire, innovatively produced - with jus",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNdhtpAi0ZQmCqfkDSq6MQVdbfZe-c70nZ1qqdyQNzK3c=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 4290000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTrQ7HXWRRxr7OsOtodr2_w"
-        },
-        {
-          "id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
-          "title": "FRANCE 24 English",
-          "description": "Official FRANCE 24's YouTube channel, international news 24/7.\nWatch international video news from around the world !",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 3710000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQfwfsi5VrQ8yKZ-UWmAEFg"
+          "id": "UCEXGDNclvmg6RW0vipJYsTQ",
+          "title": "Channels Television",
+          "description": "Channels Television is Africa’s most awarded broadcaster. It is a multiple award-winning 24-hour news and media organiza",
+          "thumbnail": "https://yt3.ggpht.com/hBmtX1OA-mMEdfPqPdLzFxVeAlXKrc_wLU2z0la9sjIuTdjH_L7ISQl89c1AG2fkRAIQlTz_Hw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 3850000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEXGDNclvmg6RW0vipJYsTQ"
         },
         {
           "id": "UCKZGcrxRAhdUi58Mdr565mw",
@@ -264,14 +256,6 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDvJcb8Adv-_bOrtnRLmiDw"
         },
         {
-          "id": "UCBnQF4yu8du8ypDFnqUDlwA",
-          "title": "4tv News Channel",
-          "description": "Today's Most Viewed Channel..\n",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kXLj59Ho_mi19mkHjLmurEJ8aw2608rn6aKQ0sfCwew1Y=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 837000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBnQF4yu8du8ypDFnqUDlwA"
-        },
-        {
           "id": "UChis4ldsiyCtfZZrqICxgrg",
           "title": "ブリッヒー!News Channel",
           "description": "〈いつも放送事故が起きてしまうニュース番組〉\nゲティと石井のかっちゃんのコンビから始まった『ブリッヒー！ニュースチャンネル』です\nこのチャンネルではフェイクニュースとして色々なニュースを壺浅アナウンサー、福井アナウンサー、咲良アナウンサー、",
@@ -280,20 +264,36 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChis4ldsiyCtfZZrqICxgrg"
         },
         {
-          "id": "UCueJOS3ZjWyTtRU9bnx9XFw",
-          "title": "WREG News Channel 3",
-          "description": "",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nsKKUumrbQCYaEVwIkYKGdgf0JHgeFeVHhs-TKUGLWHA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 287000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCueJOS3ZjWyTtRU9bnx9XFw"
-        },
-        {
           "id": "UCJD2Br_xC-3vY4nkJ9YPYDA",
           "title": "Nippon Television News Japan",
           "description": "NIPPON TV NEWS 24 JAPAN is the news of Nippon Television (NTV), Japan's leading and oldest commercial broadcast network ",
           "thumbnail": "https://yt3.ggpht.com/Fno737RV6PyXzsCN1BVAbtBHLo76FueLJZrLRnMJFPkA-0PdLucQcx97EP2RGT3rvwpBo0MwQw=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 248000,
+          "subscribers": 249000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJD2Br_xC-3vY4nkJ9YPYDA"
+        },
+        {
+          "id": "UCoe5u1Hr0tHkJVzgsiKoMJg",
+          "title": "WTVC NewsChannel 9",
+          "description": "WTVC NewsChannel 9 is an ABC news affiliate in Chattanooga, Tennessee.",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_Sy4MbMvdwDfGc1fW-umpsUeijNm0ogSMS6E78d5Yfg=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 119000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoe5u1Hr0tHkJVzgsiKoMJg"
+        },
+        {
+          "id": "UC-3Vp3Qy14wylC9WK8F1zUA",
+          "title": "NewsChannel 9 WSYR Syracuse",
+          "description": "Official YouTube account for NewsChannel 9 WSYR-TV in Syracuse, NY.",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kCFq-Ufn3XonGqrKF0qwD7uVjuHTyYK7tPCPWBNshiijo=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 46900,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-3Vp3Qy14wylC9WK8F1zUA"
+        },
+        {
+          "id": "UCI3_BqPJuHdaKB4j6dNOk5g",
+          "title": "News Channel Nebraska",
+          "description": "News Channel Nebraska- the only in-state, independent television network of its kind.  We are dedicated to our communiti",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kTTygnMBHAS2scDXfrtBWoS1O1NS9NydlQdmhfv7bFW7M=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 39800,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI3_BqPJuHdaKB4j6dNOk5g"
         }
       ]
     },
@@ -326,6 +326,14 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCb-xXZ7ltTvrh9C6DgB9H-Q"
         },
         {
+          "id": "UCVLZmDKeT-mV4H3ToYXIFYg",
+          "title": "Insider Tech",
+          "description": "What you want to know about tech. A section of Business Insider.\n\nVisit our homepage for the top stories of the day: htt",
+          "thumbnail": "https://yt3.ggpht.com/WCPNSCGZ2MEiwJ0R9w1J3f8sCYL6Sfq1HWr8yJPVx8O0QOQ6kU_NTjOe7OhJQHTDPlW6vaXHpA=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 4220000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVLZmDKeT-mV4H3ToYXIFYg"
+        },
+        {
           "id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
           "title": "Technology Connections",
           "description": "",
@@ -348,14 +356,6 @@
           "thumbnail": "https://yt3.ggpht.com/7qCmNHAsFvD6RSINuJ1WoGZYoKmm7TDnhORKFqLb8QoeOFh2qFXal8brkzoxNrwqmJTuvOLs=s88-c-k-c0x00ffffff-no-rj",
           "subscribers": 1850000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ"
-        },
-        {
-          "id": "UCptwuAv0XQHo1OQUSaO6NHw",
-          "title": "Max Tech",
-          "description": "Want to collaborate on sponsored content? Email us HERE ➡\n\nWE DO NOT USE Telegram, Whatsapp, or WeChat for communication",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_myEKwPp7n1o7Gt1vd1X3pPoioDaF9xNSKcvQibs1SEyTc=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1270000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCptwuAv0XQHo1OQUSaO6NHw"
         },
         {
           "id": "UCYVU6rModlGxvJbszCclGGw",
@@ -468,28 +468,28 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWWBTWctBz5_LjvA3GpT41g"
         },
         {
-          "id": "UCH_itr1-NZ1lIZ5yiIb9xVw",
-          "title": "Sustainability Science Education",
-          "description": "We believe that attaining a sustainable future can be achieved one classroom at a time by informed and dedicated teacher",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nVsTd7f8p0xRBVuFC6LHB61KOHh4lRdrDGkaVn1vyQ=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 2190,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH_itr1-NZ1lIZ5yiIb9xVw"
+          "id": "UCO_Q2ATx4Jojx_GmJZUa9WA",
+          "title": "BAC SCIENCE EDUCATION CONSULTANTS",
+          "description": "Provides coaching, video lessons, online teaching, counselling and guidance, career guidance and many more educational s",
+          "thumbnail": "https://yt3.ggpht.com/B4IbOmXZ2yPtBSeOGudqMB6jXnhambaHL_hRKgfptUwT9T0bVMZM3xyTMDE8MRTj-wS5tsLqrw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 1360,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO_Q2ATx4Jojx_GmJZUa9WA"
         },
         {
-          "id": "UCGBYfOS6V5GyOFfSXkSXuSQ",
-          "title": "STEPWISE Science Education",
-          "description": "STEPWISE (Science & Technology Education Promoting Wellbeing for Individuals, Societies & Environments) is an educationa",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_bHKdeGAW8rVYuN126ftJamM-AIbjOT0MsBJZs9u3NqU=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 97,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGBYfOS6V5GyOFfSXkSXuSQ"
+          "id": "UC8ACOIQcsrOyUccNr5Mbz4A",
+          "title": "Science Education Center In Surat",
+          "description": "Peace progress & Unity Through Education\n",
+          "thumbnail": "https://yt3.ggpht.com/3RGE0X41GRJxSgVawkGeiDb_8ooPWCIyA0H2uOaSknXHpVU1jsGjmBd7q-aKxJCBNJ6qfRmKxg=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 1270,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8ACOIQcsrOyUccNr5Mbz4A"
         },
         {
-          "id": "UCxKmO9T9ObzOTKk-IZYaPHw",
-          "title": "ISRA Science Education",
-          "description": "This channel is about physical sciences like Physics, Chemistry  and space sciences. The video material is made only for",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m1nmnUb4PCZK508kI4lg8jpCJMWVqlS_OSnCiudRjPH_c=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 78,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxKmO9T9ObzOTKk-IZYaPHw"
+          "id": "UCA98LUF-advYSUtaaPla6ZA",
+          "title": "Bindura University Of Science Education (BUSE)",
+          "description": "Bindura University of Science Education (BUSE) is a dynamic Zimbabwean institution that, while rooted in its origins of ",
+          "thumbnail": "https://yt3.ggpht.com/cmLA648HYgQc7_HE45YB8CccNpZmb6qXWSe-5QqlRViNSE622u6G5ZspM0ZZYsayRqmJe5EcS8E=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 115,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA98LUF-advYSUtaaPla6ZA"
         },
         {
           "id": "UCasXRb1_kVzEY9Jprjz-b3w",
@@ -518,7 +518,7 @@
           "title": "MrBeast Gaming",
           "description": "New MrBeast or MrBeast Gaming video every single Saturday at noon eastern time!\n\nMrBeast Gaming - SUBSCRIBE OR ELSE",
           "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lMiSL6eHqg2dVxvll6mVMeXo1qVak4TZ4_7mEWdobRRCk=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 62700000,
+          "subscribers": 62800000,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIPPMRA040LQr5QPyJEbmXA"
         },
         {
@@ -530,20 +530,20 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChXi_PlJkRMPYFQBOJ3MpxA"
         },
         {
-          "id": "UC85aYbNSFjsJdxfpxgQr8tA",
-          "title": "Judo Sloth Gaming",
-          "description": "A Clash of Clans based channel focusing on helping you improve your gameplay. You will see a variety of content from gui",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l4_prfVArZW6Obtyml0MbVDGweMYy3EYNOGCV72kt-xdc=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 3700000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC85aYbNSFjsJdxfpxgQr8tA"
+          "id": "UCemhZ2At2lgifTJLClGCz9A",
+          "title": "Royalty Gaming",
+          "description": "Welcome to the ROYALTY GAMING Youtube Channel. Join Ali and Ferran as they play Minecraft, Roblox, Fortnite, and so many",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ljo_G4ifnCwRUP8cTwJnkH36YbF2WJhMpTVsmFVbRSXeo=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 7890000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCemhZ2At2lgifTJLClGCz9A"
         },
         {
-          "id": "UCJD5R47XWLmJ7nn18T2ZW4w",
-          "title": "Dattrax Gaming",
-          "description": "Hey Everyone! This is Harvest here! Welcome to \"Dattrax GaminG\" YouTube Channel!\nI created this channel for PC and Andro",
-          "thumbnail": "https://yt3.ggpht.com/Wgk5NI8Wr_W1PcZxlkSlsqFciD7_7ekeLyHImeyKnL6WKyxhCNKcBuwMntiU-c3Rx0ArGNDaT8A=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 3490000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJD5R47XWLmJ7nn18T2ZW4w"
+          "id": "UCI1vyXBgX3bruwvChLMNxjQ",
+          "title": "LoLzZz Gaming",
+          "description": "Welcome to LoLzZz Gaming.\nThis is Official YouTube Channel of Yash Thacker.\nFull Time Streamer and Gaming  Content Creat",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_niGQI-25G_EfSn6qNtF7Ll8VT4eVvJfCQv849dtFycZtE=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 2860000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI1vyXBgX3bruwvChLMNxjQ"
         },
         {
           "id": "UC6zzlBIwNS9GJZZ3rBx_WhQ",
@@ -562,44 +562,44 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpbvCjJ68yt_N2WUpufLaCQ"
         },
         {
-          "id": "UCWcly5Teks2uSNsF5hRFNNg",
-          "title": "Norris Nuts Gaming",
-          "description": "Norris Nuts Gaming Channel. Doing gaming the Norris Nuts way! Fun quirky family friendly from Sabre, Sockie, Biggy Naz, ",
-          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n7_sw35-EwR_I8C7EdOd1jZmPwQnT8E0wQ_1D64_lL45U=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 2160000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWcly5Teks2uSNsF5hRFNNg"
+          "id": "UCo0NaLsgPT6JrQLQGecpMyw",
+          "title": "G for Gaming",
+          "description": "hey friends :) \nwelcome to our GAMiNG CHANNEL!!\n\ni'm Adley if you didn't know.. i make fun videos with my family on my m",
+          "thumbnail": "https://yt3.ggpht.com/-KsxucaRVU1rQ-LnmEgUz1Lk_jcT2gV2KY-xNXcd5ZJfCaOerd3h-cZMTBZv_4FS4lIhdNasag=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 1640000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo0NaLsgPT6JrQLQGecpMyw"
         },
         {
-          "id": "UC135_IPK8XOEEdXdtcseR4w",
-          "title": "CKN Gaming",
-          "description": "Welcome to CKN Gaming .\nThis is the official CKN  channel where we will be playing our favorite games .",
-          "thumbnail": "https://yt3.ggpht.com/mTA4EuaCo1W5cWOIaSePIw8Ope0NHHBIewmJ_PHNBJD7tL2pWxObK2hTb0UwiGK3rl6bszPR=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 1500000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC135_IPK8XOEEdXdtcseR4w"
+          "id": "UCxfr3b8IuHSzu22UHnAvHWg",
+          "title": "MoistCr1TiKaL Gaming",
+          "description": "This channel is proof I am the ultimate variety gamer who finishes every game he touches ",
+          "thumbnail": "https://yt3.ggpht.com/1DM_sp3580Gzu-Hg9zNIrr7R1dY2augSktcs5NyPzHMeTBmcg3ALBJf4wt--Cvsk9R2ZgVe6gw=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 1150000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxfr3b8IuHSzu22UHnAvHWg"
         },
         {
-          "id": "UCFqmcAvY-lLQHJcfOHJavGQ",
-          "title": "kAN Gaming",
-          "description": "Hey everyone! My name is kAN and I love playing video games! Join me as we play all sorts of games both solo and with fr",
-          "thumbnail": "https://yt3.ggpht.com/hywgLauoU8dCYclPQJ2M5b0lB5RHqLkEL9jl0zWM-OtjUhq0osQWdmRl7poI6A8gGX0BoqFRPA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 497000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqmcAvY-lLQHJcfOHJavGQ"
+          "id": "UCxdaFKaMlRHtVkBeGygsYTw",
+          "title": "Papaplatte Gaming",
+          "description": "IMPRESSUM\nAngaben gemäß § 5 Digitale-Dienste-Gesetz (DDG): \n\nGeschäftsadresse: \nnewbase GmbH \nLena Nießen\nGürzenichstr. ",
+          "thumbnail": "https://yt3.ggpht.com/tescPJkmSdVGDTGHGokrqcgKnsAff8LmfwEfAfX61H_jDAiv6na9pmDpqv22OUJeQKW_3MLr2w=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 890000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxdaFKaMlRHtVkBeGygsYTw"
         },
         {
-          "id": "UCoNrZLYzYTLow9OnyANLqrQ",
-          "title": "Manni-Gaming",
-          "description": "Robot & Mech Mobile Gaming: War Robots, Armor Attack, Mech Arena, etc.\nPure fun paired with an absurd amount of energy! ",
-          "thumbnail": "https://yt3.ggpht.com/h5yGNeNyetbR5ZNE5EnVPEN9wZ1di1XaK90j-uFX4YJVFnTA4K7QvGAd0ic2SWDintnjUbTGww=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 445000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoNrZLYzYTLow9OnyANLqrQ"
+          "id": "UC-dDPClZzfqCAcxuQPhqx7A",
+          "title": "Clooless Gaming",
+          "description": "Business Email: Clooless@mode.gg",
+          "thumbnail": "https://yt3.ggpht.com/GkK78QkCqd4gaERpCFXnnEhh7gw1GagOXgqTYGPjgoHYGW4ffEBKIBdpS3ef-jugoXiJacZmDA=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 337000,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-dDPClZzfqCAcxuQPhqx7A"
         },
         {
-          "id": "UCR8akk6X76sLi7RowfJAEbA",
-          "title": "Caleb Gannon Gaming",
-          "description": "",
-          "thumbnail": "https://yt3.ggpht.com/p93cX-9GAuj_QYUYlMqXTrEXop7ErFonFREecnNaPVfhOuiNLY_9g41MCAtgkimARf_fELIbEA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 43500,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR8akk6X76sLi7RowfJAEbA"
+          "id": "UCN7z0S0GJCcfdJlLCXPedsQ",
+          "title": "Telluride Bush Gaming",
+          "description": "Sas, Mook, & Jerry are building a Call of Duty Challenger's team and documenting the process along the way. ",
+          "thumbnail": "https://yt3.ggpht.com/3zAL1ZqMAOyxPoTaWiqtmTHQ_RGUj4uonDFzKuOMnhKRcmis9XjbXQ_jER6JtN2g0uXvqYeejn8=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 48400,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN7z0S0GJCcfdJlLCXPedsQ"
         }
       ]
     },
@@ -656,14 +656,6 @@
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr4XXQznhlgfzo4mwOgkF8w"
         },
         {
-          "id": "UCrNfRFWnLC3tCy1TnyhVQ7g",
-          "title": "Casual Finance",
-          "description": "i make finance videos |\n\nfor business inquiries: casualfinance.sponsors@gmail.com |\n\nDisclaimer: I am not a financial ad",
-          "thumbnail": "https://yt3.ggpht.com/ChInyoXTCRz-v1Hxtf4EMl8kApHnr6YkrPPOEjJ1wq3SUvHsjtkWzoXhVb0Oj_EtP7hdlHDcMg=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 441000,
-          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrNfRFWnLC3tCy1TnyhVQ7g"
-        },
-        {
           "id": "UCXzNNA2ngRpRiWvyA7eGd6w",
           "title": "Nick Invests",
           "description": "I’m Nick, and I create easy-to-understand animated videos about personal finance, investing, passive income, and managin",
@@ -684,15 +676,23 @@
           "title": "Investing Uncomplicated",
           "description": "Welcome to Investing Uncomplicated – where the everyday person becomes the everyday investor.\n\nIf you’ve ever felt like ",
           "thumbnail": "https://yt3.ggpht.com/7_s9uqh63683InVcPVSmfiT3XMM8H-VH1xOxa75C6Hk1EXRZQ9eWs7crme8dEL8i50j6ZWERow=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 80300,
+          "subscribers": 80400,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp9okfQXIf4Ttr-ZIa4IlXw"
+        },
+        {
+          "id": "UCNeBCizpA1NbX7A9_ia6jYg",
+          "title": "Mike Jones Investing",
+          "description": "My name is Mike Jones and I created this channel to share financial and entertaining information about saving, investing",
+          "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n8WMl5wR0HUYgFrDP7GjVPbz1UennZMaJ2vNxjLmbvoQ=s88-c-k-c0x00ffffff-no-rj",
+          "subscribers": 78600,
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNeBCizpA1NbX7A9_ia6jYg"
         },
         {
           "id": "UChvlmVy6Q0a9uC1jRFRpp8Q",
           "title": "Brent Johnson Milkshakes Pod | Investing • Finance",
           "description": "The Dollar Milkshake Theory, an idea created by Brent Johnson of Santiago Capital to explain the role of the U.S. Dollar",
           "thumbnail": "https://yt3.ggpht.com/BzyWzth6PsGAZFh0yZV7cO9FLWOjVzOavoOzXsdGr4fvQphkNtJZpMV0EOb-ev1MthJXyGHq2w=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 40000,
+          "subscribers": 40300,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChvlmVy6Q0a9uC1jRFRpp8Q"
         },
         {
@@ -700,7 +700,7 @@
           "title": "Invest Finance",
           "description": "",
           "thumbnail": "https://yt3.ggpht.com/rmIUvwj8i9m39k1m_eFhFHsV5dZ4GpZ-grt42zPDCPFngMEqG56Zph-tMXTTjR-dZr8B82w9JA=s88-c-k-c0x00ffffff-no-rj",
-          "subscribers": 866,
+          "subscribers": 876,
           "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy6SA_uWagd1x7-jsgXvFKA"
         }
       ]
